@@ -1,0 +1,2232 @@
+{
+    "i--9X2ThbyKk": {
+        "bibtex": "@article{drellich2017geometric,\n  title={Geometric combinatorics and computational molecular biology: Branching polytopes for RNA sequences},\n  author={Drellich, Elizabeth and Gainer-Dewar, Andrew and Harrington, H and He, Qijun and Heitsch, CE and Poznanovi{\\'c}, S},\n  journal={Algebraic and Geometric Methods in Applied Discrete Mathematics. Contemporary Mathematics},\n  volume={685},\n  pages={137--154},\n  year={2017}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Omics"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://books.google.de/books?hl=en&lr=&id=J3FgDgAAQBAJ&oi=fnd&pg=PA137&dq=info:niVDBcgLA6MJ:scholar.google.com&ots=VTzbGHlhcC&sig=Ga9tBZhcg81JIk41ft_rSro6WxQ&redir_esc=y#v=onepage&q&f=false",
+        "publication_title": "Geometric combinatorics and computational molecular biology: Branching polytopes for RNA sequences",
+        "type": "Book",
+        "uuid": "i--9X2ThbyKk"
+    },
+    "i-0CF2iF2fK9": {
+        "bibtex": "@book{nag_2026,\n  title={Numerical Algebraic Geometry},\n  author={Amethyst, Silviana C. and Bates, Daniel J. and Hauenstein, Jonathan D. and Sommese, Andrew J. and Wampler, Charles W.},\nseries={Student Mathematical Library},\nvolume={?},\n  url={},\n  year={To appear},\n  publisher={American Mathematical Society}\n}",
+        "group_member_authors": [
+            {
+                "name": "Silviana Amethyst",
+                "uuid": "i-iJVJHewIbN"
+            }
+        ],
+        "keywords": [
+            "Software & Computational Mathematics",
+            "Applied Algebraic Geometry & Tensors"
+        ],
+        "link_arxiv": "",
+        "link_publication": "",
+        "publication_title": "Numerical Algebraic Geometry",
+        "type": "Book",
+        "uuid": "i-0CF2iF2fK9"
+    },
+    "i-0FbwA5JtH1": {
+        "bibtex": "@article{gross2016numerical,\n  title={Numerical algebraic geometry for model selection and its application to the life sciences},\n  author={Gross, Elizabeth and Davis, Brent and Ho, Kenneth L and Bates, Daniel J and Harrington, Heather A},\n  journal={Journal of The Royal Society Interface},\n  volume={13},\n  number={123},\n  pages={20160256},\n  year={2016},\n  publisher={The Royal Society}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://royalsocietypublishing.org/rsif/article/13/123/20160256/64732/Numerical-algebraic-geometry-for-model-selection",
+        "publication_title": "Numerical algebraic geometry for model selection and its application to the life sciences",
+        "type": "Journal",
+        "uuid": "i-0FbwA5JtH1"
+    },
+    "i-0YlUGSA62E": {
+        "bibtex": "@article{adamer2020coloured,\n  title={Coloured noise from stochastic inflows in reaction--diffusion systems},\n  author={Adamer, Michael F and Harrington, Heather A and Gaffney, Eamonn A and Woolley, Thomas E},\n  journal={Bulletin of Mathematical Biology},\n  volume={82},\n  number={4},\n  pages={44},\n  year={2020},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks",
+            "Morphology & Spatial Biology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s11538-020-00719-w",
+        "publication_title": "Coloured noise from stochastic inflows in reaction--diffusion systems",
+        "type": "Journal",
+        "uuid": "i-0YlUGSA62E"
+    },
+    "i-0y50fBnilv": {
+        "bibtex": "@article{benjamin2024multiscale,\n  title={Multiscale topology classifies cells in subcellular spatial transcriptomics},\n  author={Benjamin, Katherine and Bhandari, Aneesha and Kepple, Jessica D and Qi, Rui and Shang, Zhouchun and Xing, Yanan and An, Yanru and Zhang, Nannan and Hou, Yong and Crockford, Tanya L and others},\n  journal={Nature},\n  volume={630},\n  number={8018},\n  pages={943--949},\n  year={2024},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Software & Computational Mathematics",
+            "Immunology",
+            "Omics",
+            "Morphology & Spatial Biology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41586-024-07563-1",
+        "publication_title": "Multiscale topology classifies cells in subcellular spatial transcriptomics",
+        "type": "Journal",
+        "uuid": "i-0y50fBnilv"
+    },
+    "i-1QEfyMg1fC": {
+        "bibtex": "@misc{galgano2025discretesignaturetensorspersistence,  \n      title={Discrete signature tensors for persistence landscapes},  \n      author={Vincenzo Galgano and Heather A. Harrington and Daniel Tolosa},  \n      year={2025},  \n      eprint={2505.02800},  \n      archivePrefix={arXiv},  \n      primaryClass={math.AT},  \n      url={https://arxiv.org/abs/2505.02800},  \n}",
+        "group_member_authors": [
+            {
+                "name": "Daniel Tolosa",
+                "uuid": "i-2iUtBT5ACC"
+            },
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            },
+            {
+                "name": "Vincenzo Galgano",
+                "uuid": "i-5JhnTb06rJ"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2505.02800",
+        "link_publication": "",
+        "publication_title": "Discrete signature tensors for persistence landscapes",
+        "type": "Journal",
+        "uuid": "i-1QEfyMg1fC"
+    },
+    "i-1hKMrbELRN": {
+        "bibtex": "@article{otter2017roadmap,\n  title={A roadmap for the computation of persistent homology},\n  author={Otter, Nina and Porter, Mason A and Tillmann, Ulrike and Grindrod, Peter and Harrington, Heather A},\n  journal={EPJ data science},\n  volume={6},\n  number={1},\n  pages={17},\n  year={2017},\n  publisher={Springer}\n}\n",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0109-5.pdf",
+        "publication_title": "A roadmap for the computation of persistent homology",
+        "type": "Journal",
+        "uuid": "i-1hKMrbELRN"
+    },
+    "i-1kBB5v-Ffj": {
+        "bibtex": "@article{harrington2017reduction,\n  title={Reduction of dimension for nonlinear dynamical systems},\n  author={Harrington, Heather A and Van Gorder, Robert A},\n  journal={Nonlinear Dynamics},\n  volume={88},\n  number={1},\n  pages={715--734},\n  year={2017},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://pubmed.ncbi.nlm.nih.gov/32226227/",
+        "publication_title": "Reduction of dimension for nonlinear dynamical systems",
+        "type": "Journal",
+        "uuid": "i-1kBB5v-Ffj"
+    },
+    "i-289Y_7Rv1G": {
+        "bibtex": "@article{chaidos2013clinical,\n  title={Clinical drug resistance linked to interconvertible phenotypic and functional states of tumor-propagating cells in multiple myeloma},\n  author={Chaidos, Aristeidis and Barnes, Chris P and Cowan, Gillian and May, Philippa C and Melo, Valeria and Hatjiharissi, Evdoxia and Papaioannou, Maria and Harrington, Heather and Doolittle, Helen and Terpos, Evangelos and others},\n  journal={Blood, The Journal of the American Society of Hematology},\n  volume={121},\n  number={2},\n  pages={318--328},\n  year={2013},\n  publisher={American Society of Hematology Washington, DC}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Oncology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://ashpublications.org/blood/article/121/2/318/30964/Clinical-drug-resistance-linked-to?guestAccessKey=",
+        "publication_title": "Clinical drug resistance linked to interconvertible phenotypic and functional states of tumor-propagating cells in multiple myeloma",
+        "type": "Journal",
+        "uuid": "i-289Y_7Rv1G"
+    },
+    "i-2cuur6ylSu": {
+        "bibtex": "@article{byrne2019topology,\n  title={Topology characterises tumour vasculature},\n  author={Byrne, Helen M and Harrington, Heather A and Muschel, Ruth and Reinert, Gesine and Stolz, Bernadette J and Tillmann, Ulrike},\n  journal={Mathematics Today},\n  volume={55},\n  number={5},\n  pages={206--210},\n  year={2019},\n  publisher={Institute of Mathematics and its Applications}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Oncology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://bernadettestolz.me/files/IMA_Byrne2019.pdf",
+        "publication_title": "Topology characterises tumour vasculature",
+        "type": "Journal",
+        "uuid": "i-2cuur6ylSu"
+    },
+    "i-2jHHqrR2v8": {
+        "bibtex": "@misc{\u00e7elik2025strataecologicalcoexistencegrassmannians,\n      title={Strata of Ecological Coexistence via Grassmannians}, \n      author={T\u00fcrk\u00fc \u00d6zl\u00fcm \u00c7elik and Pierre A. Haas and Georgy Scholten and Kexin Wang and Giulio Zucal},\n      year={2025},\n      eprint={2509.00165},\n      archivePrefix={arXiv},\n      primaryClass={math.AG},\n      url={https://arxiv.org/abs/2509.00165}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Georgy Scholten",
+                "uuid": "i-6DMM0Se4y6"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2509.00165",
+        "link_publication": "",
+        "publication_title": "Strata of Ecological Coexistence via Grassmannians",
+        "type": "Journal",
+        "uuid": "i-2jHHqrR2v8"
+    },
+    "i-384xOQNjK6": {
+        "bibtex": "@article{harrington2012mathematical,\n  title={Mathematical modeling reveals the functional implications of the different nuclear shuttling rates of Erk1 and Erk2},\n  author={Harrington, Heather A and Komorowski, Micha{\\l} and Beguerisse-D{\\'\\i}az, Mariano and Ratto, Gian Michele and Stumpf, Michael PH},\n  journal={Physical biology},\n  volume={9},\n  number={3},\n  pages={036001},\n  year={2012},\n  publisher={IOP Publishing}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://iopscience.iop.org/article/10.1088/1478-3975/9/3/036001/meta",
+        "publication_title": "Mathematical modeling reveals the functional implications of the different nuclear shuttling rates of Erk1 and Erk2",
+        "type": "Journal",
+        "uuid": "i-384xOQNjK6"
+    },
+    "i-3GMC5H4OW-": {
+        "bibtex": "@article{barbensi2020grid,\n  title={Grid diagrams as tools to investigate knot spaces and topoisomerase-mediated simplification of DNA topology},\n  author={Barbensi, Agnese and Celoria, Daniele and Harrington, Heather A and Stasiak, Andrzej and Buck, Dorothy},\n  journal={Science advances},\n  volume={6},\n  number={9},\n  pages={eaay1458},\n  year={2020},\n  publisher={American Association for the Advancement of Science}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.science.org/doi/full/10.1126/sciadv.aay1458",
+        "publication_title": "Grid diagrams as tools to investigate knot spaces and topoisomerase-mediated simplification of DNA topology",
+        "type": "Journal",
+        "uuid": "i-3GMC5H4OW-"
+    },
+    "i-3gzfSFUzjN": {
+        "bibtex": "@article{dowbaj2025mouse,\n  title={Mouse liver assembloids model periportal architecture and biliary fibrosis},\n  author={Dowbaj, Anna M and Sljukic, Aleksandra and Niksic, Armin and Landerer, Cedric and Delpierre, Julien and Yang, Haochen and Lahree, Aparajita and K{\\\"u}hn, Ariane C and Beers, David and Byrne, Helen M and others},\n  journal={Nature},\n  volume={644},\n  number={8076},\n  pages={473--482},\n  year={2025},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Ben Yang",
+                "uuid": "i-UPeaSxDqc9"
+            },
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Morphology & Spatial Biology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41586-025-09183-9",
+        "publication_title": "Mouse liver assembloids model periportal architecture and biliary fibrosis",
+        "type": "Journal",
+        "uuid": "i-3gzfSFUzjN"
+    },
+    "i-3kR1Do91GJ": {
+        "bibtex": "@inproceedings{harrington2019decomposing,\n  title={Decomposing the parameter space of biological networks via a numerical discriminant approach},\n  author={Harrington, Heather A and Mehta, Dhagash and Byrne, Helen M and Hauenstein, Jonathan D},\n  booktitle={Maple Conference},\n  pages={114--131},\n  year={2019},\n  organization={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/chapter/10.1007/978-3-030-41258-6_9",
+        "publication_title": "Decomposing the parameter space of biological networks via a numerical discriminant approach",
+        "type": "Journal",
+        "uuid": "i-3kR1Do91GJ"
+    },
+    "i-3o99cRo-fa": {
+        "bibtex": "@article{speidel2018topological,\n  title={Topological data analysis of continuum percolation with disks},\n  author={Speidel, Leo and Harrington, Heather A and Chapman, S Jonathan and Porter, Mason A},\n  journal={Physical Review E},\n  volume={98},\n  number={1},\n  pages={012318},\n  year={2018},\n  publisher={APS}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.012318",
+        "publication_title": "Topological data analysis of continuum percolation with disks",
+        "type": "Journal",
+        "uuid": "i-3o99cRo-fa"
+    },
+    "i-4-S-fvQoxZ": {
+        "bibtex": "@article{ho2010bistability,\n  title={Bistability in apoptosis by receptor clustering},\n  author={Ho, Kenneth L and Harrington, Heather A},\n  journal={PLoS computational biology},\n  volume={6},\n  number={10},\n  pages={e1000956},\n  year={2010},\n  publisher={Public Library of Science San Francisco, USA}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000956",
+        "publication_title": "Bistability in apoptosis by receptor clustering",
+        "type": "Journal",
+        "uuid": "i-4-S-fvQoxZ"
+    },
+    "i-4oPXNblWeU": {
+        "bibtex": "@article{levy2016role,\n  title={Role of seasonality on predator--prey--subsidy population dynamics},\n  author={Levy, Dorian and Harrington, Heather A and Van Gorder, Robert A},\n  journal={Journal of theoretical biology},\n  volume={396},\n  pages={163--181},\n  year={2016},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.sciencedirect.com/science/article/abs/pii/S0022519316000953",
+        "publication_title": "Role of seasonality on predator--prey--subsidy population dynamics",
+        "type": "Journal",
+        "uuid": "i-4oPXNblWeU"
+    },
+    "i-4w63m-asRB": {
+        "bibtex": "@article{thorne2022topological,\n  title={Topological approximate Bayesian computation for parameter inference of an angiogenesis model},\n  author={Thorne, Thomas and Kirk, Paul DW and Harrington, Heather A},\n  journal={Bioinformatics},\n  volume={38},\n  number={9},\n  pages={2529--2535},\n  year={2022},\n  publisher={Oxford University Press}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Oncology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://academic.oup.com/bioinformatics/article/38/9/2529/6534327?guestAccessKey=",
+        "publication_title": "Topological approximate Bayesian computation for parameter inference of an angiogenesis model",
+        "type": "Journal",
+        "uuid": "i-4w63m-asRB"
+    },
+    "i-5WcsBdmquC": {
+        "bibtex": "@article{everall2026comprehensive,\n  title={Comprehensive repertoire of the chromosomal alteration and mutational signatures across 16 cancer types},\n  author={Everall, Andrew and Tapinos, Avraam and Hawari, Aliah and Cornish, Alex J and Sud, Amit and Chubb, Daniel and Kinnersley, Ben and Frangou, Anna and Barquin, Miguel and Jung, Josephine and others},\n  journal={Nature Genetics},\n  pages={1--12},\n  year={2026},\n  publisher={Nature Publishing Group US New York}\n}",
+        "group_member_authors": [
+            {
+                "name": "Anna Frangou",
+                "uuid": "i-Lyudz32Y-G"
+            }
+        ],
+        "keywords": [
+            "Oncology",
+            "Omics",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41588-025-02474-x",
+        "publication_title": "Comprehensive repertoire of the chromosomal alteration and mutational signatures across 16 cancer types",
+        "type": "Journal",
+        "uuid": "i-5WcsBdmquC"
+    },
+    "i-5g7QpxHOFj": {
+        "bibtex": "@article{reise2024topological,\n  title={Topological fingerprints for audio identification},\n  author={Reise, Wojciech and Fern{\\'a}ndez, Ximena and Dominguez, Maria and Harrington, Heather A and Beguerisse-D{\\'\\i}az, Mariano},\n  journal={SIAM Journal on Mathematics of Data Science},\n  volume={6},\n  number={3},\n  pages={815--841},\n  year={2024},\n  publisher={SIAM}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://epubs.siam.org/doi/abs/10.1137/23M1605090",
+        "publication_title": "Topological fingerprints for audio identification",
+        "type": "Journal",
+        "uuid": "i-5g7QpxHOFj"
+    },
+    "i-5hzPWfC8N1": {
+        "bibtex": "@article{dufresne2021some,\n  title={On some configurations of oppositely charged trapped vortices in the plane},\n  author={Dufresne, Emilie and Harrington, Heather A and Hauenstein, Jonathan D and Kevrekidis, Panayotis G and Tripoli, Paolo},\n  journal={Advances in Applied Mathematics},\n  volume={124},\n  pages={102099},\n  year={2021},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.sciencedirect.com/science/article/pii/S0196885820301020",
+        "publication_title": "On some configurations of oppositely charged trapped vortices in the plane",
+        "type": "Journal",
+        "uuid": "i-5hzPWfC8N1"
+    },
+    "i-5mTBf2IenY": {
+        "bibtex": "@article{stolz2022multiscale,\n  title={Multiscale topology characterizes dynamic tumor vascular networks},\n  author={Stolz, Bernadette J and Kaeppler, Jakob and Markelc, Bostjan and Braun, Franziska and Lipsmeier, Florian and Muschel, Ruth J and Byrne, Helen M and Harrington, Heather A},\n  journal={Science Advances},\n  volume={8},\n  number={23},\n  pages={eabm2456},\n  year={2022},\n  publisher={American Association for the Advancement of Science}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology",
+            "Oncology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.science.org/doi/full/10.1126/sciadv.abm2456",
+        "publication_title": "Multiscale topology characterizes dynamic tumor vascular networks",
+        "type": "Journal",
+        "uuid": "i-5mTBf2IenY"
+    },
+    "i-5pI8t_AAlk": {
+        "bibtex": "@article{bick2023higher,\n  title={What are higher-order networks?},\n  author={Bick, Christian and Gross, Elizabeth and Harrington, Heather A and Schaub, Michael T},\n  journal={SIAM review},\n  volume={65},\n  number={3},\n  pages={686--731},\n  year={2023},\n  publisher={SIAM}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://epubs.siam.org/doi/abs/10.1137/21M1414024",
+        "publication_title": "What are higher-order networks?",
+        "type": "Journal",
+        "uuid": "i-5pI8t_AAlk"
+    },
+    "i-67WAwgHzM9": {
+        "bibtex": "@article{yang2025topological,\n  title={Topological classification of tumour-immune interactions and dynamics: J. Yang et al.},\n  author={Yang, Jingjie and Fang, Heidi and Dhesi, Jagdeep and Yoon, Iris HR and Bull, Joshua A and Byrne, Helen M and Harrington, Heather A and Grindstaff, Gillian},\n  journal={Journal of mathematical biology},\n  volume={91},\n  number={3},\n  pages={25},\n  year={2025},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology",
+            "Immunology",
+            "Oncology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s00285-025-02253-6",
+        "publication_title": "Topological classification of tumour-immune interactions and dynamics: J. Yang et al.",
+        "type": "Journal",
+        "uuid": "i-67WAwgHzM9"
+    },
+    "i-6gySnbZonv": {
+        "bibtex": "@article{dufresne2016geometry,\n  title={The geometry of sloppiness},\n  author={Dufresne, Emilie and Harrington, Heather A and Raman, Dhruva V},\n  journal={arXiv preprint arXiv:1608.05679},\n  year={2016}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://nottingham-repository.worktribe.com/output/960320",
+        "publication_title": "The geometry of sloppiness",
+        "type": "Journal",
+        "uuid": "i-6gySnbZonv"
+    },
+    "i-8BpCF8MkaY": {
+        "bibtex": "@article{maclean2014epithelial,\n  title={Epithelial-mesenchymal transition in metastatic cancer cell populations affects tumor dormancy in a simple mathematical model},\n  author={MacLean, Adam L and Harrington, Heather A and Stumpf, Michael PH and Hansen, Marc DH},\n  journal={Biomedicines},\n  volume={2},\n  number={4},\n  pages={384--402},\n  year={2014},\n  publisher={MDPI}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling",
+            "Oncology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.mdpi.com/2227-9059/2/4/384",
+        "publication_title": "Epithelial-mesenchymal transition in metastatic cancer cell populations affects tumor dormancy in a simple mathematical model",
+        "type": "Journal",
+        "uuid": "i-8BpCF8MkaY"
+    },
+    "i-8X6bWvjwV5": {
+        "bibtex": "@article{brown2022quantification,\n  title={Quantification of vascular networks in photoacoustic mesoscopy},\n  author={Brown, Emma L and Lefebvre, Thierry L and Sweeney, Paul W and Stolz, Bernadette J and Gr{\\\"o}hl, Janek and Hacker, Lina and Huang, Ziqiang and Couturier, Dominique-Laurent and Harrington, Heather A and Byrne, Helen M and others},\n  journal={Photoacoustics},\n  volume={26},\n  pages={100357},\n  year={2022},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Morphology & Spatial Biology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.sciencedirect.com/science/article/pii/S221359792200026X",
+        "publication_title": "Quantification of vascular networks in photoacoustic mesoscopy",
+        "type": "Journal",
+        "uuid": "i-8X6bWvjwV5"
+    },
+    "i-9mtdX4LzaQ": {
+        "bibtex": "@article{ryou2023continuous,\n  title={Continuous Indexing of Fibrosis (CIF): improving the assessment and classification of MPN patients},\n  author={Ryou, Hosuk and Sirinukunwattana, Korsuk and Aberdeen, Alan and Grindstaff, Gillian and Stolz, Bernadette J and Byrne, Helen and Harrington, Heather A and Sousos, Nikolaos and Godfrey, Anna L and Harrison, Claire N and others},\n  journal={Leukemia},\n  volume={37},\n  number={2},\n  pages={348--358},\n  year={2023},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Morphology & Spatial Biology",
+            "Oncology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41375-022-01773-0",
+        "publication_title": "Continuous Indexing of Fibrosis (CIF): improving the assessment and classification of MPN patients",
+        "type": "Journal",
+        "uuid": "i-9mtdX4LzaQ"
+    },
+    "i-AoXdynP4R1": {
+        "bibtex": "@article{boyle2009coronary,\n  title={Coronary intraplaque hemorrhage evokes a novel atheroprotective macrophage phenotype},\n  author={Boyle, Joseph J and Harrington, Heather A and Piper, Emma and Elderfield, Kay and Stark, Jaroslav and Landis, Robert C and Haskard, Dorian O},\n  journal={The American journal of pathology},\n  volume={174},\n  number={3},\n  pages={1097--1108},\n  year={2009},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling",
+            "Other Applications",
+            "Immunology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.sciencedirect.com/science/article/pii/S0002944010609674",
+        "publication_title": "Coronary intraplaque hemorrhage evokes a novel atheroprotective macrophage phenotype",
+        "type": "Journal",
+        "uuid": "i-AoXdynP4R1"
+    },
+    "i-B0lE-JcEp5": {
+        "bibtex": "@article{harrington2019stratifying,\n  title={Stratifying multiparameter persistent homology},\n  author={Harrington, Heather A and Otter, Nina and Schenck, Hal and Tillmann, Ulrike},\n  journal={SIAM Journal on Applied Algebra and Geometry},\n  volume={3},\n  number={3},\n  pages={439--471},\n  year={2019},\n  publisher={SIAM}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://epubs.siam.org/doi/abs/10.1137/18M1224350",
+        "publication_title": "Stratifying multiparameter persistent homology",
+        "type": "Journal",
+        "uuid": "i-B0lE-JcEp5"
+    },
+    "i-CEgqaMa_rd": {
+        "bibtex": "@article{gross2016algebraic,\n  title={Algebraic systems biology: a case study for the Wnt pathway},\n  author={Gross, Elizabeth and Harrington, Heather A and Rosen, Zvi and Sturmfels, Bernd},\n  journal={Bulletin of mathematical biology},\n  volume={78},\n  number={1},\n  pages={21--51},\n  year={2016},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s11538-015-0125-1",
+        "publication_title": "Algebraic systems biology: a case study for the Wnt pathway",
+        "type": "Journal",
+        "uuid": "i-CEgqaMa_rd"
+    },
+    "i-DQYYWvE5TE": {
+        "bibtex": "@article{bull2023topological,\n  title={Topological Analysis of High-Resolution Spatial Transcriptomics Reveals Immune Glomerular Architecture of Lupus Nephritis: TH-PO533},\n  author={Bull, Katherine R and Benjamin, Katherine and Bhandari, Aneesha and Shang, Zhouchun and Xing, Yanan and An, Yanru and Zhang, Nannan and Tillmann, Ulrike and Harrington, Heather A},\n  journal={Journal of the American Society of Nephrology},\n  volume={34},\n  number={11S},\n  pages={239--239},\n  year={2023}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Immunology",
+            "Omics"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.ovid.com/jnls/jasn/abstract/10.1681/asn.20233411s1239b~topological-analysis-of-high-resolution-spatial?redirectionsource=fulltextview",
+        "publication_title": "Topological Analysis of High-Resolution Spatial Transcriptomics Reveals Immune Glomerular Architecture of Lupus Nephritis: TH-PO533",
+        "type": "Journal",
+        "uuid": "i-DQYYWvE5TE"
+    },
+    "i-EFp_eG2Ui9": {
+        "bibtex": "@misc{din2025probabilisticalgorithmcomputinglocal,\n      title={Probabilistic algorithm for computing all local minimizers of Morse functions on a compact domain}, \n      author={Mohab Safey El Din and Georgy Scholten and Emmanuel Tr\u00e9lat},\n      year={2025},\n      eprint={2507.13071},\n      archivePrefix={arXiv},\n      primaryClass={cs.SC},\n      url={https://arxiv.org/abs/2507.13071}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Georgy Scholten",
+                "uuid": "i-6DMM0Se4y6"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Identifiability, Statistics, & AI"
+        ],
+        "link_arxiv": "https://hal.science/hal-05160251v1",
+        "link_publication": "",
+        "publication_title": "Probabilistic algorithm for computing all local minimizers of Morse functions on a compact domain",
+        "type": "Journal",
+        "uuid": "i-EFp_eG2Ui9"
+    },
+    "i-ELuI7afqJr": {
+        "bibtex": "@misc{mcdonald2026topologicalmodelselectioncasestudy,  \n      title={Topological model selection: a case-study in tumour-induced angiogenesis},  \n      author={Robert A McDonald and Helen M Byrne and Heather A Harrington and Thomas Thorne and Bernadette J Stolz},  \n      year={2026},  \n      eprint={2504.15442},  \n      archivePrefix={arXiv},  \n      primaryClass={q-bio.QM},  \n      url={https://arxiv.org/abs/2504.15442},  \n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2504.15442",
+        "link_publication": "",
+        "publication_title": "Topological model selection: a case-study in tumour-induced angiogenesis",
+        "type": "Journal",
+        "uuid": "i-ELuI7afqJr"
+    },
+    "i-EVwVb_8tE9": {
+        "bibtex": "@misc{tanburn2025nondimensionalizationscienceart,\n      title={Nondimensionalization is more science than art}, \n      author={Richard Tanburn and Danny Hendron and Philip Maini and Silviana Amethyst and Emilie Dufresne and Heather A. Harrington},\n      year={2025},\n      eprint={2512.13455},\n      archivePrefix={arXiv},\n      primaryClass={q-bio.QM},\n      url={https://arxiv.org/abs/2512.13455}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Silviana Amethyst",
+                "uuid": "i-iJVJHewIbN"
+            },
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "https://arxiv.org/abs/2512.13455",
+        "link_publication": "",
+        "publication_title": "Nondimensionalization is more science than art",
+        "type": "Journal",
+        "uuid": "i-EVwVb_8tE9"
+    },
+    "i-GMUAnoXiEe": {
+        "bibtex": "@article{smith2017nanog,\n  title={Nanog fluctuations in embryonic stem cells highlight the problem of measurement in cell biology},\n  author={Smith, Rosanna CG and Stumpf, Patrick S and Ridden, Sonya J and Sim, Aaron and Filippi, Sarah and Harrington, Heather A and MacArthur, Ben D},\n  journal={Biophysical journal},\n  volume={112},\n  number={12},\n  pages={2641--2652},\n  year={2017},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.cell.com/biophysj/fulltext/S0006-3495(17)30509-X",
+        "publication_title": "Nanog fluctuations in embryonic stem cells highlight the problem of measurement in cell biology",
+        "type": "Journal",
+        "uuid": "i-GMUAnoXiEe"
+    },
+    "i-H5ZVlTRyCy": {
+        "bibtex": "@misc{chaplin2024notionhomotopydirectedgraphs,\n      title={A notion of homotopy for directed graphs and their flag complexes}, \n      author={Thomas Chaplin and Heather A. Harrington and Ulrike Tillmann},\n      year={2024},\n      eprint={2411.04572},\n      archivePrefix={arXiv},\n      primaryClass={math.AT},\n      url={https://arxiv.org/abs/2411.04572}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2411.04572",
+        "link_publication": "",
+        "publication_title": "A notion of homotopy for directed graphs and their flag complexes",
+        "type": "Journal",
+        "uuid": "i-H5ZVlTRyCy"
+    },
+    "i-HUSOwuRBhj": {
+        "bibtex": "@article{yeung2020inference,\n  title={Inference of multisite phosphorylation rate constants and their modulation by pathogenic mutations},\n  author={Yeung, Eyan and McFann, Sarah and Marsh, Lewis and Dufresne, Emilie and Filippi, Sarah and Harrington, Heather A and Shvartsman, Stanislav Y and W{\\\"u}hr, Martin},\n  journal={Current Biology},\n  volume={30},\n  number={5},\n  pages={877--882},\n  year={2020},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks",
+            "Omics",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.cell.com/current-biology/fulltext/S0960-9822(19)31685-9",
+        "publication_title": "Inference of multisite phosphorylation rate constants and their modulation by pathogenic mutations",
+        "type": "Journal",
+        "uuid": "i-HUSOwuRBhj"
+    },
+    "i-HjJfMgEye6": {
+        "bibtex": "@inproceedings{oliveri2024robust,\n  title={Robust posture control by plants in dynamic gravity field},\n  author={Oliveri, Hadrien and Moulton, Derek and Harrington, Heather and Goriely, Alain},\n  booktitle={APS March Meeting Abstracts},\n  volume={2024},\n  pages={T36--008},\n  year={2024}\n}",
+        "group_member_authors": [
+            {
+                "name": "Hadrien Oliveri",
+                "uuid": "i-bS8leO07i2"
+            },
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://ui.adsabs.harvard.edu/abs/2024APS..MART36008O/abstract",
+        "publication_title": "Robust posture control by plants in dynamic gravity field",
+        "type": "Journal",
+        "uuid": "i-HjJfMgEye6"
+    },
+    "i-IfT-cEMI6K": {
+        "bibtex": "@article{mcdonald2023zigzag,\n  title={Zigzag persistence for coral reef resilience using a stochastic spatial model},\n  author={McDonald, Robert A and Neuhausler, Rosanna and Robinson, Martin and Larsen, Laurel G and Harrington, Heather A and Bruna, Maria},\n  journal={Journal of The Royal Society Interface},\n  volume={20},\n  number={205},\n  year={2023},\n  publisher={The Royal Society}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://royalsocietypublishing.org/rsif/article/20/205/20230280/90415",
+        "publication_title": "Zigzag persistence for coral reef resilience using a stochastic spatial model",
+        "type": "Journal",
+        "uuid": "i-IfT-cEMI6K"
+    },
+    "i-JJmUI1umu1": {
+        "bibtex": "@book{harrington2017algebraic,\n  title={Algebraic and geometric methods in discrete mathematics},\n  author={Harrington, Heather A and Omar, Mohamed and Wright, Matthew},\n  volume={685},\n  year={2017},\n  publisher={American mathematical society Providence}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://books.google.de/books?hl=en&lr=&id=J3FgDgAAQBAJ&oi=fnd&pg=PP1&ots=VTzbGHlggI&sig=PvpFju1wxDQbuQqi4CN1lt28aRs&redir_esc=y#v=onepage&q&f=false",
+        "publication_title": "Algebraic and geometric methods in discrete mathematics",
+        "type": "Book",
+        "uuid": "i-JJmUI1umu1"
+    },
+    "i-JNyurHE5E-": {
+        "bibtex": "@article{ward2025replication,\n  title={Replication-associated mechanisms contribute to an increased CpG> TpG mutation burden in mismatch repair-deficient cancers},\n  author={Ward, Joseph C and Soriano, Ignacio and Thorn, Steve and Fern{\\'a}ndez-Tajes, Juan and Sherwood, Kitty and G{\\\"u}l, G{\\\"u}ler and Scheffers, Joost and Frangou, Anna and Kinnersley, Ben and Kafetzopoulos, Ioannis and others},\n  journal={Genome medicine},\n  volume={17},\n  number={1},\n  pages={95},\n  year={2025},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Anna Frangou",
+                "uuid": "i-Lyudz32Y-G"
+            }
+        ],
+        "keywords": [
+            "Oncology",
+            "Omics"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1186/s13073-025-01525-6",
+        "publication_title": "Replication-associated mechanisms contribute to an increased CpG> TpG mutation burden in mismatch repair-deficient cancers",
+        "type": "Journal",
+        "uuid": "i-JNyurHE5E-"
+    },
+    "i-JpGoe-gukB": {
+        "bibtex": "@article{harrington2013commentary,\n  title={Commentary: Teach network science to teenagers},\n  author={Harrington, Heather A and Beguerisse-D{\\'\\i}az, Mariano and Rombach, M Puck and Keating, Laura M and Porter, Mason A},\n  journal={Network Science},\n  volume={1},\n  number={2},\n  pages={226--247},\n  year={2013},\n  publisher={Cambridge University Press}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.cambridge.org/core/journals/network-science/article/abs/commentary-teach-network-science-to-teenagers/5AEBD266BEB5F6AD47BF569809C793EA",
+        "publication_title": "Commentary: Teach network science to teenagers",
+        "type": "Journal",
+        "uuid": "i-JpGoe-gukB"
+    },
+    "i-KJzs7B9geO": {
+        "bibtex": "@article{nardini2021topological,\n  title={Topological data analysis distinguishes parameter regimes in the Anderson-Chaplain model of angiogenesis},\n  author={Nardini, John T and Stolz, Bernadette J and Flores, Kevin B and Harrington, Heather A and Byrne, Helen M},\n  journal={PLOS Computational Biology},\n  volume={17},\n  number={6},\n  pages={e1009094},\n  year={2021},\n  publisher={Public Library of Science San Francisco, CA USA}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Oncology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009094",
+        "publication_title": "Topological data analysis distinguishes parameter regimes in the Anderson-Chaplain model of angiogenesis",
+        "type": "Journal",
+        "uuid": "i-KJzs7B9geO"
+    },
+    "i-LW7T-fYk_t": {
+        "bibtex": "@article{adamer2017graph,\n  title={Graph-facilitated resonant mode counting in stochastic interaction networks},\n  author={Adamer, Michael F and Woolley, Thomas E and Harrington, Heather A},\n  journal={Journal of The Royal Society Interface},\n  volume={14},\n  number={137},\n  year={2017},\n  publisher={The Royal Society}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://royalsocietypublishing.org/rsif/article/14/137/20170447/64895",
+        "publication_title": "Graph-facilitated resonant mode counting in stochastic interaction networks",
+        "type": "Journal",
+        "uuid": "i-LW7T-fYk_t"
+    },
+    "i-L_DL4cKB2z": {
+        "bibtex": "@misc{grindstaff2025tropicalbisectorscarliniwagnerattacks,\n      title={Tropical Bisectors and Carlini-Wagner Attacks}, \n      author={Gillian Grindstaff and Julia Lindberg and Daniela Schkoda and Miruna-Stefana Sorea and Ruriko Yoshida},\n      year={2025},\n      eprint={2503.22653},\n      archivePrefix={arXiv},\n      primaryClass={cs.LG},\n      url={https://arxiv.org/abs/2503.22653}, \n}",
+        "group_member_authors": [],
+        "keywords": [
+            "Identifiability, Statistics, & AI"
+        ],
+        "link_arxiv": "https://arxiv.org/abs/2503.22653",
+        "link_publication": "",
+        "publication_title": "Tropical Bisectors and Carlini-Wagner Attacks",
+        "type": "Journal",
+        "uuid": "i-L_DL4cKB2z"
+    },
+    "i-NNEHllVorW": {
+        "bibtex": "@article{ni2024genomic,\n  title={Genomic landscape of adult testicular germ cell tumours in the 100,000 Genomes Project},\n  author={N{\\'\\i} Leathlobhair, M{\\'a}ire and Frangou, Anna and Kinnersley, Ben and Cornish, Alex J and Chubb, Daniel and Lakatos, Eszter and Arumugam, Prabhu and Gruber, Andreas J and Law, Philip and Tapinos, Avraam and others},\n  journal={Nature communications},\n  volume={15},\n  number={1},\n  pages={9247},\n  year={2024},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Anna Frangou",
+                "uuid": "i-Lyudz32Y-G"
+            }
+        ],
+        "keywords": [
+            "Oncology",
+            "Other Applications",
+            "Omics"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41467-024-53193-6",
+        "publication_title": "Genomic landscape of adult testicular germ cell tumours in the 100,000 Genomes Project",
+        "type": "Journal",
+        "uuid": "i-NNEHllVorW"
+    },
+    "i-NRgfnvWxYL": {
+        "bibtex": "@article{puente2025absolute,\n  title={Absolute concentration robustness: Algebra and geometry},\n  author={Puente, Luis David Garc{\\'\\i}a and Gross, Elizabeth and Harrington, Heather A and Johnston, Matthew and Meshkat, Nicolette and Mill{\\'a}n, Mercedes P{\\'e}rez and Shiu, Anne},\n  journal={Journal of Symbolic Computation},\n  volume={128},\n  pages={102398},\n  year={2025},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.sciencedirect.com/science/article/pii/S0747717124001020",
+        "publication_title": "Absolute concentration robustness: Algebra and geometry",
+        "type": "Journal",
+        "uuid": "i-NRgfnvWxYL"
+    },
+    "i-O7FFYYxuFp": {
+        "bibtex": "@article{seigal2023principal,\n  title={Principal components along quiver representations},\n  author={Seigal, Anna and Harrington, Heather A and Nanda, Vidit},\n  journal={Foundations of Computational Mathematics},\n  volume={23},\n  number={4},\n  pages={1129--1165},\n  year={2023},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Omics",
+            "Immunology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s10208-022-09563-x",
+        "publication_title": "Principal components along quiver representations",
+        "type": "Journal",
+        "uuid": "i-O7FFYYxuFp"
+    },
+    "i-P-1i0EnL8o": {
+        "bibtex": "@misc{natarajan2026topologymultispecieslocalization,  \n      title={Topology of Multi-species Localization},  \n      author={Abhinav Natarajan and Thomas Chaplin and Joshua A. Bull and Eoghan J. Mulholland-Illingworth and Simon J. Leedham and Helen M. Byrne and Maria-Jose Jimenez and Heather A. Harrington},  \n      year={2026},  \n      eprint={2603.03237},  \n      archivePrefix={arXiv},  \n      primaryClass={math.AT},  \n      url={https://arxiv.org/abs/2603.03237},  \n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2603.03237",
+        "link_publication": "",
+        "publication_title": "Topology of Multi-species Localization",
+        "type": "Journal",
+        "uuid": "i-P-1i0EnL8o"
+    },
+    "i-Pww5X_zQt7": {
+        "bibtex": "@article{tanaka2011skin,\n  title={Skin barrier homeostasis in atopic dermatitis: feedback regulation of kallikrein activity},\n  author={Tanaka, Reiko J and Ono, Masahiro and Harrington, Heather A},\n  journal={PLoS One},\n  volume={6},\n  number={5},\n  pages={e19895},\n  year={2011},\n  publisher={Public Library of Science San Francisco, USA}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019895",
+        "publication_title": "Skin barrier homeostasis in atopic dermatitis: feedback regulation of kallikrein activity",
+        "type": "Journal",
+        "uuid": "i-Pww5X_zQt7"
+    },
+    "i-Q5lOtWZLME": {
+        "bibtex": "@article{milor2025topological,\n  title={A topological approach to the Cahn-Hilliard equation and hyperuniform fields},\n  author={Milor, Abel HG and Sumray, Otto and Harrington, Heather A and Voigt, Axel and Salvalaglio, Marco},\n  journal={arXiv preprint arXiv:2509.05339},\n  year={2025}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "",
+        "link_publication": "https://arxiv.org/abs/2509.05339",
+        "publication_title": "A topological approach to the Cahn-Hilliard equation and hyperuniform fields",
+        "type": "Journal",
+        "uuid": "i-Q5lOtWZLME"
+    },
+    "i-QBXzMLAHFp": {
+        "bibtex": "@article{abiad2026hypergraphs,\n  title={Hypergraphs and simplicial complexes in focus: A roadmap for future research in higher-order interactions},\n  author={Abiad, Aida and Arenas, Alex and Backhausz, Agnes and Balogh, Jozsef and Banerji, Christopher RS and Barbarossa, Sergio and Bianconi, Ginestra and Bick, Christian and Botnan, Magnus Bakke B and Carletti, Timoteo and others},\n  journal={Journal of Physics: Complexity},\n  year={2026}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Topological Data Analysis",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://iopscience.iop.org/article/10.1088/2632-072X/ae3c4e/meta",
+        "publication_title": "Hypergraphs and simplicial complexes in focus: A roadmap for future research in higher-order interactions",
+        "type": "Journal",
+        "uuid": "i-QBXzMLAHFp"
+    },
+    "i-QMb_Dznck-": {
+        "bibtex": "@article{harrington2007hybrid,\n  title={A hybrid model for tumor-induced angiogenesis in the cornea in the presence of inhibitors},\n  author={Harrington, Heather A and Maier, M and Naidoo, L and Whitaker, Nathaniel and Kevrekidis, Panayotis G},\n  journal={Mathematical and computer modelling},\n  volume={46},\n  number={3-4},\n  pages={513--524},\n  year={2007},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology",
+            "Oncology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.sciencedirect.com/science/article/pii/S0895717706004249",
+        "publication_title": "A hybrid model for tumor-induced angiogenesis in the cornea in the presence of inhibitors",
+        "type": "Journal",
+        "uuid": "i-QMb_Dznck-"
+    },
+    "i-QNDrgocugm": {
+        "bibtex": "@article{culliford2026contrasting,\n  title={Contrasting features of papillary and chromophobe renal cell carcinoma revealed by whole genome sequencing.},\n  author={Culliford, Richard and Mills, Charlie and Chubb, Daniel and Kinnersley, Ben and Sud, Amit and Cornish, Alex J and Browning, Lisa and Lawrence, Samuel ED and Bentham, Robert and Frangou, Anna and others},\n  journal={Molecular Cancer Research},\n  year={2026},\n  publisher={American Association for Cancer Research}\n}",
+        "group_member_authors": [
+            {
+                "name": "Anna Frangou",
+                "uuid": "i-Lyudz32Y-G"
+            }
+        ],
+        "keywords": [
+            "Omics",
+            "Oncology",
+            "Identifiability, Statistics, & AI",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://aacrjournals.org/mcr/article/doi/10.1158/1541-7786.MCR-25-0616/774897/Contrasting-Features-of-Papillary-and-Chromophobe",
+        "publication_title": "Contrasting features of papillary and chromophobe renal cell carcinoma revealed by whole genome sequencing.",
+        "type": "Journal",
+        "uuid": "i-QNDrgocugm"
+    },
+    "i-Qe7ZCq31wi": {
+        "bibtex": "@article{marsh2022algebra,\n  title={Algebra, geometry and topology of ERK kinetics},\n  author={Marsh, Lewis and Dufresne, Emilie and Byrne, Helen M and Harrington, Heather A},\n  journal={Bulletin of Mathematical Biology},\n  volume={84},\n  number={12},\n  pages={137},\n  year={2022},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks",
+            "Oncology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s11538-022-01088-2",
+        "publication_title": "Algebra, geometry and topology of ERK kinetics",
+        "type": "Journal",
+        "uuid": "i-Qe7ZCq31wi"
+    },
+    "i-Qvkgy34xHS": {
+        "bibtex": "@article{taylor2015topological,\n  title={Topological data analysis of contagion maps for examining spreading processes on networks},\n  author={Taylor, Dane and Klimm, Florian and Harrington, Heather A and Kram{\\'a}r, Miroslav and Mischaikow, Konstantin and Porter, Mason A and Mucha, Peter J},\n  journal={Nature communications},\n  volume={6},\n  number={1},\n  pages={7723},\n  year={2015},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/ncomms8723",
+        "publication_title": "Topological data analysis of contagion maps for examining spreading processes on networks",
+        "type": "Journal",
+        "uuid": "i-Qvkgy34xHS"
+    },
+    "i-Sb4GLoew4v": {
+        "bibtex": "@article{byrne2025algebraic,\n  title={Algebraic identifiability of partial differential equation models},\n  author={Byrne, Helen M and Harrington, Heather A and Ovchinnikov, Alexey and Pogudin, Gleb and Rahkooy, Hamid and Soto, Pedro},\n  journal={Nonlinearity},\n  volume={38},\n  number={2},\n  pages={025022},\n  year={2025},\n  publisher={IOP Publishing}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://iopscience.iop.org/article/10.1088/1361-6544/ada510/meta",
+        "publication_title": "Algebraic identifiability of partial differential equation models",
+        "type": "Journal",
+        "uuid": "i-Sb4GLoew4v"
+    },
+    "i-TN41-5I-9W": {
+        "bibtex": "@article{vipond2021multiparameter,\n  title={Multiparameter persistent homology landscapes identify immune cell spatial patterns in tumors},\n  author={Vipond, Oliver and Bull, Joshua A and Macklin, Philip S and Tillmann, Ulrike and Pugh, Christopher W and Byrne, Helen M and Harrington, Heather A},\n  journal={Proceedings of the National Academy of Sciences},\n  volume={118},\n  number={41},\n  pages={e2102166118},\n  year={2021},\n  publisher={National Academy of Sciences}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology",
+            "Oncology",
+            "Immunology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.pnas.org/doi/abs/10.1073/pnas.2102166118",
+        "publication_title": "Multiparameter persistent homology landscapes identify immune cell spatial patterns in tumors",
+        "type": "Journal",
+        "uuid": "i-TN41-5I-9W"
+    },
+    "i-TPqoSmBr5q": {
+        "bibtex": "@article{harrington2013cellular,\n  title={Cellular compartments cause multistability and allow cells to process more information},\n  author={Harrington, Heather A and Feliu, Elisenda and Wiuf, Carsten and Stumpf, Michael PH},\n  journal={Biophysical journal},\n  volume={104},\n  number={8},\n  pages={1824--1831},\n  year={2013},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks",
+            "Morphology & Spatial Biology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.cell.com/biophysj/fulltext/S0006-3495(13)00246-4",
+        "publication_title": "Cellular compartments cause multistability and allow cells to process more information",
+        "type": "Journal",
+        "uuid": "i-TPqoSmBr5q"
+    },
+    "i-TrsukcU6Ls": {
+        "bibtex": "@article{harrington2024algebraic,\n  title={Algebraic network reconstruction of discrete dynamical systems},\n  author={Harrington, Heather A and Stillman, Mike and Veliz-Cuba, Alan},\n  journal={Advances in Applied Mathematics},\n  volume={161},\n  pages={102760},\n  year={2024},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.sciencedirect.com/science/article/abs/pii/S0196885824000927",
+        "publication_title": "Algebraic network reconstruction of discrete dynamical systems",
+        "type": "Journal",
+        "uuid": "i-TrsukcU6Ls"
+    },
+    "i-VRijxwPU78": {
+        "bibtex": "@article{hoekzema2022multiscale,\n  title={Multiscale methods for signal selection in single-cell data},\n  author={Hoekzema, Renee S and Marsh, Lewis and Sumray, Otto and Carroll, Thomas M and Lu, Xin and Byrne, Helen M and Harrington, Heather A},\n  journal={Entropy},\n  volume={24},\n  number={8},\n  pages={1116},\n  year={2022},\n  publisher={MDPI}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling",
+            "Omics"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.mdpi.com/1099-4300/24/8/1116",
+        "publication_title": "Multiscale methods for signal selection in single-cell data",
+        "type": "Journal",
+        "uuid": "i-VRijxwPU78"
+    },
+    "i-VVTPhoC6CL": {
+        "bibtex": "@article{scoccola2025cover,\n  title={Cover Learning for Large-Scale Topology Representation},\n  author={Scoccola, Luis and Lim, Uzu and Harrington, Heather A},\n  journal={arXiv preprint arXiv:2503.09767},\n  year={2025}\n}\n",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI"
+        ],
+        "link_arxiv": "https://arxiv.org/abs/2503.09767",
+        "link_publication": "",
+        "publication_title": "Cover Learning for Large-Scale Topology Representation",
+        "type": "Journal",
+        "uuid": "i-VVTPhoC6CL"
+    },
+    "i-VsOOID_Mgq": {
+        "bibtex": "@article{spector2026persistent,\n  title={Persistent homology classifies parameter dependence of patterns in Turing systems},\n  author={Spector, Reemon and Harrington, Heather A and Gaffney, Eamonn A},\n  journal={Bulletin of Mathematical Biology},\n  volume={88},\n  number={1},\n  pages={10},\n  year={2026},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s11538-025-01552-9",
+        "publication_title": "Persistent homology classifies parameter dependence of patterns in Turing systems",
+        "type": "Journal",
+        "uuid": "i-VsOOID_Mgq"
+    },
+    "i-Vt4eJgOU9A": {
+        "bibtex": "@article{beers2023barcodes,\n  title={Barcodes distinguishing morphology of neuronal tauopathy},\n  author={Beers, David and Goniotaki, Despoina and Hanger, Diane P and Goriely, Alain and Harrington, Heather A},\n  journal={Physical Review Research},\n  volume={5},\n  number={4},\n  pages={043006},\n  year={2023},\n  publisher={APS}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Morphology & Spatial Biology",
+            "Neuroscience",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043006",
+        "publication_title": "Barcodes distinguishing morphology of neuronal tauopathy",
+        "type": "Journal",
+        "uuid": "i-Vt4eJgOU9A"
+    },
+    "i-WJfsxfVa-u": {
+        "bibtex": "@article{mcdonald2025topological,\n  title={Topological model selection: a case-study in tumour-induced angiogenesis},\n  author={McDonald, Robert A and Byrne, Helen M and Harrington, Heather A and Thorne, Thomas and Stolz, Bernadette J},\n  journal={arXiv preprint arXiv:2504.15442},\n  year={2025}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Oncology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://academic.oup.com/bioinformatics/article/42/3/btag065/8516556?guestAccessKey=",
+        "publication_title": "Topological model selection: a case-study in tumour-induced angiogenesis",
+        "type": "Journal",
+        "uuid": "i-WJfsxfVa-u"
+    },
+    "i-XC6rxqwpxU": {
+        "bibtex": "@misc{lenzen2025persistentcyclerepresentativesgeneralized,\n      title={Persistent Cycle Representatives and Generalized Landscapes for Codimension 1 Persistent Homology}, \n      author={Fabian Lenzen and Leon Renkin},\n      year={2025},\n      eprint={2512.09668},\n      archivePrefix={arXiv},\n      primaryClass={math.AT},\n      url={https://arxiv.org/abs/2512.09668}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Leon Renkin",
+                "uuid": "i-g0slIejKR6"
+            },
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2512.09668",
+        "link_publication": "",
+        "publication_title": "Persistent Cycle Representatives and Generalized Landscapes for Codimension 1 Persistent Homology",
+        "type": "Journal",
+        "uuid": "i-XC6rxqwpxU"
+    },
+    "i-XghRf0H7Lz": {
+        "bibtex": "@article{dong2023differential,\n  title={Differential elimination for dynamical models via projections with applications to structural identifiability},\n  author={Dong, Ruiwen and Goodbrake, Christian and Harrington, Heather A and Pogudin, Gleb},\n  journal={SIAM Journal on Applied Algebra and Geometry},\n  volume={7},\n  number={1},\n  pages={194--235},\n  year={2023},\n  publisher={SIAM}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://epubs.siam.org/doi/abs/10.1137/22M1469067",
+        "publication_title": "Differential elimination for dynamical models via projections with applications to structural identifiability",
+        "type": "Journal",
+        "uuid": "i-XghRf0H7Lz"
+    },
+    "i-Xm1DOotYRg": {
+        "bibtex": "@article{stolz2020geometric,\n  title={Geometric anomaly detection in data},\n  author={Stolz, Bernadette J and Tanner, Jared and Harrington, Heather A and Nanda, Vidit},\n  journal={Proceedings of the national academy of sciences},\n  volume={117},\n  number={33},\n  pages={19664--19669},\n  year={2020},\n  publisher={National Academy of Sciences}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.pnas.org/doi/abs/10.1073/pnas.2001741117",
+        "publication_title": "Geometric anomaly detection in data",
+        "type": "Journal",
+        "uuid": "i-Xm1DOotYRg"
+    },
+    "i-YZByburHsq": {
+        "bibtex": "@article{gafvert2025hidden,\n  title={On the hidden layer-to-layer topology of the representations of reality realised within neural networks},\n  author={Gafvert, Oliver and Grindrod, Peter and Harrington, Heather A and Higham, Catherine F and Higham, Desmond J and Yim, Ka Man},\n  journal={Engineering Computations},\n  year={2025},\n  publisher={Emerald Publishing Limited}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.emerald.com/ec/article-abstract/doi/10.1108/EC-06-2024-0508/1250746/On-the-hidden-layer-to-layer-topology-of-the",
+        "publication_title": "On the hidden layer-to-layer topology of the representations of reality realised within neural networks",
+        "type": "Journal",
+        "uuid": "i-YZByburHsq"
+    },
+    "i-Z6XP4hQROZ": {
+        "bibtex": "@article{ahern2022blood,\n  title={A blood atlas of COVID-19 defines hallmarks of disease severity and specificity},\n  author={Ahern, David J and Ai, Zhichao and Ainsworth, Mark and Allan, Chris and Allcock, Alice and Angus, Brian and Ansari, M Azim and Arancibia-C{\\'a}rcamo, Carolina V and Aschenbrenner, Dominik and Attar, Moustafa and others},\n  journal={Cell},\n  volume={185},\n  number={5},\n  pages={916--938},\n  year={2022},\n  publisher={Elsevier}\n}\n",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Omics",
+            "Immunology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.cell.com/cell/fulltext/S0092-8674(22)00070-8?uuid=uuid%3A4ff9256c-eb68-4210-8f44-eac4c65cb1c9",
+        "publication_title": "A blood atlas of COVID-19 defines hallmarks of disease severity and specificity",
+        "type": "Journal",
+        "uuid": "i-Z6XP4hQROZ"
+    },
+    "i-Zt5tSKOTYJ": {
+        "bibtex": "@article{harrington2017reduction,\n  title={Reduction of dimension for nonlinear dynamical systems},\n  author={Harrington, Heather A and Van Gorder, Robert A},\n  journal={Nonlinear Dynamics},\n  volume={88},\n  number={1},\n  pages={715--734},\n  year={2017},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s11071-016-3272-5",
+        "publication_title": "Reduction of dimension for nonlinear dynamical systems",
+        "type": "Journal",
+        "uuid": "i-Zt5tSKOTYJ"
+    },
+    "i-ZtP0eLJteP": {
+        "bibtex": "@article{jovanovic2015phosphorelay,\n  title={Phosphorelay of non-orthodox two component systems functions through a bi-molecular mechanism in vivo: the case of ArcB},\n  author={Jovanovic, Goran and Sheng, Xia and Ale, Angelique and Feliu, Elisenda and Harrington, Heather A and Kirk, Paul and Wiuf, Carsten and Buck, Martin and Stumpf, Michael PH},\n  journal={Molecular BioSystems},\n  volume={11},\n  number={5},\n  pages={1348--1359},\n  year={2015},\n  publisher={The Royal Society of Chemistry Oxford, UK}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://academic.oup.com/molecular-omics/article-abstract/11/5/1348/8324267",
+        "publication_title": "Phosphorelay of non-orthodox two component systems functions through a bi-molecular mechanism in vivo: the case of ArcB",
+        "type": "Journal",
+        "uuid": "i-ZtP0eLJteP"
+    },
+    "i-_xJCBblbuk": {
+        "bibtex": "@misc{recke2026identifiabilitygraphicaldiscretelyapunov,\n      title={Identifiability in Graphical Discrete Lyapunov Models}, \n      author={Cecilie Olesen Recke and Sarah Lumpp and Nataliia Kushnerchuk and Janike Oldekop and Jiayi Li and Jane Ivy Coons and Elina Robeva},\n      year={2026},\n      eprint={2601.21818},\n      archivePrefix={arXiv},\n      primaryClass={math.ST},\n      url={https://arxiv.org/abs/2601.21818}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Jane Coons",
+                "uuid": "i-ht3S8GDCut"
+            },
+            {
+                "name": "Jiayi Li",
+                "uuid": "i-kaSU8maAeX"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2601.21818",
+        "link_publication": "",
+        "publication_title": "Identifiability in Graphical Discrete Lyapunov Models",
+        "type": "Journal",
+        "uuid": "i-_xJCBblbuk"
+    },
+    "i-bw-fakf7As": {
+        "bibtex": "@article{benjamin2024multiscale,\n  title={Multiscale topology classifies cells in subcellular spatial transcriptomics},\n  author={Benjamin, Katherine and Bhandari, Aneesha and Kepple, Jessica D and Qi, Rui and Shang, Zhouchun and Xing, Yanan and An, Yanru and Zhang, Nannan and Hou, Yong and Crockford, Tanya L and others},\n  journal={Nature},\n  volume={630},\n  number={8018},\n  pages={943--949},\n  year={2024},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling",
+            "Identifiability, Statistics, & AI",
+            "Morphology & Spatial Biology",
+            "Omics",
+            "Immunology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41586-024-07563-1",
+        "publication_title": "Multiscale topology classifies cells in subcellular spatial transcriptomics",
+        "type": "Journal",
+        "uuid": "i-bw-fakf7As"
+    },
+    "i-cOZMu3cCrL": {
+        "bibtex": "@article{stolz2024relational,\n  title={Relational persistent homology for multispecies data with application to the tumor microenvironment},\n  author={Stolz, Bernadette J and Dhesi, Jagdeep and Bull, Joshua A and Harrington, Heather A and Byrne, Helen M and Yoon, Iris HR},\n  journal={Bulletin of mathematical biology},\n  volume={86},\n  number={11},\n  pages={128},\n  year={2024},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology",
+            "Oncology",
+            "Immunology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s11538-024-01353-6",
+        "publication_title": "Relational persistent homology for multispecies data with application to the tumor microenvironment",
+        "type": "Journal",
+        "uuid": "i-cOZMu3cCrL"
+    },
+    "i-cbdcy40V92": {
+        "bibtex": "@article{benjamin2023homology,\n  title={Homology of homologous knotted proteins},\n  author={Benjamin, Katherine and Mukta, Lamisah and Moryoussef, Gabriel and Uren, Christopher and Harrington, Heather A and Tillmann, Ulrike and Barbensi, Agnese},\n  journal={Journal of the Royal Society Interface},\n  volume={20},\n  number={201},\n  year={2023},\n  publisher={The Royal Society}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Morphology & Spatial Biology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://royalsocietypublishing.org/rsif/article/20/201/20220727/90340",
+        "publication_title": "Homology of homologous knotted proteins",
+        "type": "Journal",
+        "uuid": "i-cbdcy40V92"
+    },
+    "i-clQmKrwBiZ": {
+        "bibtex": "@article{kinnersley2025genomic,\n  title={Genomic landscape of diffuse glioma revealed by whole genome sequencing},\n  author={Kinnersley, Ben and Jung, Josephine and Cornish, Alex J and Chubb, Daniel and Laxton, Ross and Frangou, Anna and Gruber, Andreas J and Sud, Amit and Caravagna, Giulio and Sottoriva, Andrea and others},\n  journal={Nature communications},\n  volume={16},\n  number={1},\n  pages={4233},\n  year={2025},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Anna Frangou",
+                "uuid": "i-Lyudz32Y-G"
+            }
+        ],
+        "keywords": [
+            "Oncology",
+            "Omics",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41467-025-59156-9",
+        "publication_title": "Genomic landscape of diffuse glioma revealed by whole genome sequencing",
+        "type": "Journal",
+        "uuid": "i-clQmKrwBiZ"
+    },
+    "i-dD9JZZc55C": {
+        "bibtex": "@article{TorrasPrez2025,\n  title = {Topology across scales on heterogeneous cell data},\n  volume = {21},\n  ISSN = {1553-7358},\n  url = {http://dx.doi.org/10.1371/journal.pcbi.1013460},\n  DOI = {10.1371/journal.pcbi.1013460},\n  number = {10},\n  journal = {PLOS Computational Biology},\n  publisher = {Public Library of Science (PLoS)},\n  author = {Torras-P\u00e9rez,  Maria and Yoon,  Iris H. R. and Weeratunga,  Praveen and Ho,  Ling-Pei and Byrne,  Helen M. and Tillmann,  Ulrike and Harrington,  Heather A.},\n  editor = {Copos,  Calina},\n  year = {2025},\n  month = oct,\n  pages = {e1013460}\n}\n",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Immunology",
+            "Morphology & Spatial Biology",
+            "Other Applications"
+        ],
+        "link_arxiv": "https://arxiv.org/abs/2505.02717",
+        "link_publication": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013460",
+        "publication_title": "Topology across scales on heterogeneous cell data",
+        "type": "Journal",
+        "uuid": "i-dD9JZZc55C"
+    },
+    "i-dOgrCLbDdZ": {
+        "bibtex": "@article{maggs2025topology,\n  title={Topology identifies concurrent cyclic processes in single-cell transcriptomics and androgen receptor function},\n  author={Maggs, Kelly and Youssef, Markus K and Pulver, Cyril and Isma, Jovan and Nguy{\\^e}n, T{\\^a}m J and Arzt, Matthias and Karthaus, Wouter and Harrington, Heather A and Hess, Kathryn and Dotto, G Paolo},\n  journal={bioRxiv},\n  pages={2025--01},\n  year={2025},\n  publisher={Cold Spring Harbor Laboratory}\n}\n\n",
+        "group_member_authors": [
+            {
+                "name": "Kelly Maggs",
+                "uuid": "i-yDgObOpSCJ"
+            },
+            {
+                "name": "Matthias Arzt",
+                "uuid": "i-AQRxMaIlMI"
+            },
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://doi.org/10.1101/2025.01.09.632214",
+        "link_publication": "",
+        "publication_title": "Topology identifies concurrent cyclic processes in single-cell transcriptomics and androgen receptor function",
+        "type": "Journal",
+        "uuid": "i-dOgrCLbDdZ"
+    },
+    "i-dglMx_h6D3": {
+        "bibtex": "@article{harrington2012parameter,\n  title={Parameter-free model discrimination criterion based on steady-state coplanarity},\n  author={Harrington, Heather A and Ho, Kenneth L and Thorne, Thomas and Stumpf, Michael PH},\n  journal={Proceedings of the National Academy of Sciences},\n  volume={109},\n  number={39},\n  pages={15746--15751},\n  year={2012},\n  publisher={National Academy of Sciences}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.pnas.org/doi/abs/10.1073/pnas.1117073109",
+        "publication_title": "Parameter-free model discrimination criterion based on steady-state coplanarity",
+        "type": "Journal",
+        "uuid": "i-dglMx_h6D3"
+    },
+    "i-eQzrYYoPpj": {
+        "bibtex": "@article{drellich2017geometric,\n  title={Geometric combinatorics and computational molecular biology: Branching polytopes for RNA sequences},\n  author={Drellich, Elizabeth and Gainer-Dewar, Andrew and Harrington, H and He, Qijun and Heitsch, CE and Poznanovi{\\'c}, S},\n  journal={Algebraic and Geometric Methods in Applied Discrete Mathematics. Contemporary Mathematics},\n  volume={685},\n  pages={137--154},\n  year={2017}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://ora.ox.ac.uk/objects/uuid:569331e3-f3db-42c8-a933-5ff5b9dd9c6b",
+        "publication_title": "Geometric combinatorics and computational molecular biology: Branching polytopes for RNA sequences",
+        "type": "Book",
+        "uuid": "i-eQzrYYoPpj"
+    },
+    "i-eoRjFwVkPp": {
+        "bibtex": "@article{taylor2015topological,\n  title={Topological data analysis of contagion maps for examining spreading processes on networks},\n  author={Taylor, Dane and Klimm, Florian and Harrington, Heather A and Kram{\\'a}r, Miroslav and Mischaikow, Konstantin and Porter, Mason A and Mucha, Peter J},\n  journal={Nature communications},\n  volume={6},\n  number={1},\n  pages={7723},\n  year={2015},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/ncomms8723",
+        "publication_title": "Topological data analysis of contagion maps for examining spreading processes on networks",
+        "type": "Journal",
+        "uuid": "i-eoRjFwVkPp"
+    },
+    "i-fbQ0wMR0dK": {
+        "bibtex": "@article{carroll2023tumor,\n  title={Tumor monocyte content predicts immunochemotherapy outcomes in esophageal adenocarcinoma},\n  author={Carroll, Thomas M and Chadwick, Joseph A and Owen, Richard P and White, Michael J and Kaplinsky, Joseph and Peneva, Iliana and Frangou, Anna and Xie, Phil F and Chang, Jaeho and Roth, Andrew and others},\n  journal={Cancer Cell},\n  volume={41},\n  number={7},\n  pages={1222--1241},\n  year={2023},\n  publisher={Elsevier}\n}\n",
+        "group_member_authors": [
+            {
+                "name": "Anna Frangou",
+                "uuid": "i-Lyudz32Y-G"
+            }
+        ],
+        "keywords": [
+            "Omics",
+            "Oncology",
+            "Immunology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(23)00216-7",
+        "publication_title": "Tumor monocyte content predicts immunochemotherapy outcomes in esophageal adenocarcinoma",
+        "type": "Journal",
+        "uuid": "i-fbQ0wMR0dK"
+    },
+    "i-gKGb4LRyuB": {
+        "bibtex": "@article{stolz2021topological,\n  title={Topological data analysis of task-based fMRI data from experiments on schizophrenia},\n  author={Stolz, Bernadette J and Emerson, Tegan and Nahkuri, Satu and Porter, Mason A and Harrington, Heather A},\n  journal={Journal of Physics: Complexity},\n  volume={2},\n  number={3},\n  pages={035006},\n  year={2021},\n  publisher={IOP Publishing}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Neuroscience",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://iopscience.iop.org/article/10.1088/2632-072X/abb4c6/meta",
+        "publication_title": "Topological data analysis of task-based fMRI data from experiments on schizophrenia",
+        "type": "Journal",
+        "uuid": "i-gKGb4LRyuB"
+    },
+    "i-gMRxeNeNH9": {
+        "bibtex": "@misc{hess2025intervalspheremodelstructures,\n      title={Interval-sphere model structures}, \n      author={Kathryn Hess and Samuel Lavenir and Kelly Maggs},\n      year={2025},\n      eprint={2507.02382},\n      archivePrefix={arXiv},\n      primaryClass={math.AT},\n      url={https://arxiv.org/abs/2507.02382}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Kelly Maggs",
+                "uuid": "i-yDgObOpSCJ"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2507.02382",
+        "link_publication": "",
+        "publication_title": "Interval-sphere model structures",
+        "type": "Journal",
+        "uuid": "i-gMRxeNeNH9"
+    },
+    "i-hOt7LEz7Oj": {
+        "bibtex": "@article{marsh2024detecting,\n  title={Detecting temporal shape changes with the Euler characteristic transform},\n  author={Marsh, Lewis and Zhou, Felix Y and Qin, Xiao and Lu, Xin and Byrne, Helen M and Harrington, Heather A},\n  journal={Transactions of Mathematics and its Applications},\n  volume={8},\n  number={2},\n  pages={tnae002},\n  year={2024},\n  publisher={Oxford University Press}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology",
+            "Oncology",
+            "Immunology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://academic.oup.com/imatrm/article/8/2/tnae002/7705572?guestAccessKey=",
+        "publication_title": "Detecting temporal shape changes with the Euler characteristic transform",
+        "type": "Journal",
+        "uuid": "i-hOt7LEz7Oj"
+    },
+    "i-jMP_uAuTDA": {
+        "bibtex": "@article{kay2017role,\n  title={The role of the Hes1 crosstalk hub in Notch-Wnt interactions of the intestinal crypt},\n  author={Kay, Sophie K and Harrington, Heather A and Shepherd, Sarah and Brennan, Keith and Dale, Trevor and Osborne, James M and Gavaghan, David J and Byrne, Helen M},\n  journal={PLoS computational biology},\n  volume={13},\n  number={2},\n  pages={e1005400},\n  year={2017},\n  publisher={Public Library of Science San Francisco, CA USA}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks",
+            "Oncology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005400",
+        "publication_title": "The role of the Hes1 crosstalk hub in Notch-Wnt interactions of the intestinal crypt",
+        "type": "Journal",
+        "uuid": "i-jMP_uAuTDA"
+    },
+    "i-k2Pe-cuqv-": {
+        "bibtex": "@article{oliveri2024active,\n  title={Active shape control by plants in dynamic environments},\n  author={Oliveri, Hadrien and Moulton, Derek E and Harrington, Heather A and Goriely, Alain},\n  journal={Physical Review E},\n  volume={110},\n  number={1},\n  pages={014405},\n  year={2024},\n  publisher={APS}\n}",
+        "group_member_authors": [
+            {
+                "name": "Hadrien Oliveri",
+                "uuid": "i-bS8leO07i2"
+            },
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling",
+            "Morphology & Spatial Biology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.014405",
+        "publication_title": "Active shape control by plants in dynamic environments",
+        "type": "Journal",
+        "uuid": "i-k2Pe-cuqv-"
+    },
+    "i-kBnABhxUXK": {
+        "bibtex": "@article{gross2019linear,\n  title={Linear compartmental models: input-output equations and operations that preserve identifiability},\n  author={Gross, Elizabeth and Harrington, Heather and Meshkat, Nicolette and Shiu, Anne},\n  journal={SIAM Journal on Applied Mathematics},\n  volume={79},\n  number={4},\n  pages={1423--1447},\n  year={2019},\n  publisher={SIAM}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://epubs.siam.org/doi/abs/10.1137/18M1204826",
+        "publication_title": "Linear compartmental models: input-output equations and operations that preserve identifiability",
+        "type": "Journal",
+        "uuid": "i-kBnABhxUXK"
+    },
+    "i-kE7D_DE456": {
+        "bibtex": "@article{seigal2019tensor,\n  title={Tensor clustering with algebraic constraints gives interpretable groups of crosstalk mechanisms in breast cancer},\n  author={Seigal, Anna and Beguerisse-D{\\'\\i}az, Mariano and Schoeberl, Birgit and Niepel, Mario and Harrington, Heather A},\n  journal={Journal of the Royal Society Interface},\n  volume={16},\n  number={151},\n  year={2019},\n  publisher={The Royal Society}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Oncology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://royalsocietypublishing.org/rsif/article/16/151/20180661/87007",
+        "publication_title": "Tensor clustering with algebraic constraints gives interpretable groups of crosstalk mechanisms in breast cancer",
+        "type": "Journal",
+        "uuid": "i-kE7D_DE456"
+    },
+    "i-kxH8ken0gv": {
+        "bibtex": "@article{gafvert2025hidden,\n  title={On the hidden layer-to-layer topology of the representations of reality realised within neural networks},\n  author={Gafvert, Oliver and Grindrod, Peter and Harrington, Heather A and Higham, Catherine F and Higham, Desmond J and Yim, Ka Man},\n  journal={Engineering Computations},\n  year={2025},\n  publisher={Emerald Publishing Limited}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.emerald.com/ec/article-abstract/doi/10.1108/EC-06-2024-0508/1250746",
+        "publication_title": "On the hidden layer-to-layer topology of the representations of reality realised within neural networks",
+        "type": "Journal",
+        "uuid": "i-kxH8ken0gv"
+    },
+    "i-lWPXiZuOWV": {
+        "bibtex": "@article{goodbrake2024brain,\n  title={Brain chains as topological signatures for Alzheimer\u2019s disease},\n  author={Goodbrake, Christian and Beers, David and Thompson, Travis B and Harrington, Heather A and Goriely, Alain},\n  journal={Journal of Applied and Computational Topology},\n  volume={8},\n  number={5},\n  pages={1257--1298},\n  year={2024},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling",
+            "Neuroscience",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s41468-024-00168-7",
+        "publication_title": "Brain chains as topological signatures for Alzheimer\u2019s disease",
+        "type": "Journal",
+        "uuid": "i-lWPXiZuOWV"
+    },
+    "i-lZCIIZITyN": {
+        "bibtex": "@article{chaplin2025grounded,\n  title={Grounded persistent path homology: a stable, topological descriptor for weighted digraphs},\n  author={Chaplin, Thomas and Harrington, Heather A and Tillmann, Ulrike},\n  journal={Foundations of Computational Mathematics},\n  volume={25},\n  number={5},\n  pages={1711--1776},\n  year={2025},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s10208-024-09679-2",
+        "publication_title": "Grounded persistent path homology: a stable, topological descriptor for weighted digraphs",
+        "type": "Journal",
+        "uuid": "i-lZCIIZITyN"
+    },
+    "i-lmNUo63bTJ": {
+        "bibtex": "@inproceedings{dufresne2019sampling,\n  title={Sampling real algebraic varieties for topological data analysis},\n  author={Dufresne, Emilie and Edwards, Parker and Harrington, Heather and Hauenstein, Jonathan},\n  booktitle={2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA)},\n  pages={1531--1536},\n  year={2019},\n  organization={IEEE}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Topological Data Analysis",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://ieeexplore.ieee.org/abstract/document/8999343",
+        "publication_title": "Sampling real algebraic varieties for topological data analysis",
+        "type": "Journal",
+        "uuid": "i-lmNUo63bTJ"
+    },
+    "i-m6gKzIvog-": {
+        "bibtex": "@article{stolz2017persistent,\n  title={Persistent homology of time-dependent functional networks constructed from coupled time series},\n  author={Stolz, Bernadette J and Harrington, Heather A and Porter, Mason A},\n  journal={Chaos: An Interdisciplinary Journal of Nonlinear Science},\n  volume={27},\n  number={4},\n  year={2017},\n  publisher={AIP Publishing}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://pubs.aip.org/aip/cha/article/27/4/047410/322562",
+        "publication_title": "Persistent homology of time-dependent functional networks constructed from coupled time series",
+        "type": "Journal",
+        "uuid": "i-m6gKzIvog-"
+    },
+    "i-n8W65ony0b": {
+        "bibtex": "@article{coons2025combinatorial,\n  title={Combinatorial geometry of rational quasi-independence models as toric fiber products},\n  author={Coons, Jane Ivy and Harrington, Heather A and Paul, Niharika Chakrabarty},\n  journal={Algebraic Statistics},\n  volume={17},\n  number={1},\n  pages={1--31},\n  year={2025},\n  publisher={Mathematical Sciences Publishers}\n}",
+        "group_member_authors": [
+            {
+                "name": "Jane Coons",
+                "uuid": "i-ht3S8GDCut"
+            },
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://msp.org/astat/2026/17-1/p01.xhtml",
+        "publication_title": "Combinatorial geometry of rational quasi-independence models as toric fiber products",
+        "type": "Journal",
+        "uuid": "i-n8W65ony0b"
+    },
+    "i-oklYdnzaHi": {
+        "bibtex": "@misc{connelly2025gametheorypackagemacaulay2,\n      title={The GameTheory package for Macaulay2}, \n      author={Erin Connelly and Vincenzo Galgano and Zhuang He and Giacomo Maletto and Elke Neuhaus and Irem Portakal and Hannah Tillmann-Morris and Chenyang Zhao},\n      year={2025},\n      eprint={2507.16755},\n      archivePrefix={arXiv},\n      primaryClass={math.AG},\n      url={https://arxiv.org/abs/2507.16755}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Vincenzo Galgano",
+                "uuid": "i-5JhnTb06rJ"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2507.16755",
+        "link_publication": "",
+        "publication_title": "The GameTheory package for Macaulay2",
+        "type": "Journal",
+        "uuid": "i-oklYdnzaHi"
+    },
+    "i-pAoZyk43BB": {
+        "bibtex": "@article{maclean2015parameter,\n  title={Parameter-free methods distinguish Wnt pathway models and guide design of experiments},\n  author={MacLean, Adam L and Rosen, Zvi and Byrne, Helen M and Harrington, Heather A},\n  journal={Proceedings of the National Academy of Sciences},\n  volume={112},\n  number={9},\n  pages={2652--2657},\n  year={2015},\n  publisher={National Academy of Sciences}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.pnas.org/doi/abs/10.1073/pnas.1416655112",
+        "publication_title": "Parameter-free methods distinguish Wnt pathway models and guide design of experiments",
+        "type": "Journal",
+        "uuid": "i-pAoZyk43BB"
+    },
+    "i-qQkHrOH2xw": {
+        "bibtex": "@misc{adams2025quantifyingdiscontinuity,\n      title={Quantifying discontinuity}, \n      author={Henry Adams and Florian Frick and Michael Harrison and Sunhyuk Lim and Nikola Sadovek and Matt Superdock},\n      year={2025},\n      eprint={2511.07636},\n      archivePrefix={arXiv},\n      primaryClass={math.MG},\n      url={https://arxiv.org/abs/2511.07636}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Nikola Sadovek",
+                "uuid": "i-SrkpsoPzq-"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2511.07636",
+        "link_publication": "",
+        "publication_title": "Quantifying discontinuity",
+        "type": "Journal",
+        "uuid": "i-qQkHrOH2xw"
+    },
+    "i-q_GwXCmLnf": {
+        "bibtex": "@article{gao2023dynamics,\n  title={Dynamics on networks with higher-order interactions},\n  author={Gao, Z and Ghosh, D and Harrington, HA and Restrepo, JG and Taylor, D},\n  journal={Chaos: An Interdisciplinary Journal of Nonlinear Science},\n  volume={33},\n  number={4},\n  year={2023},\n  publisher={AIP Publishing}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://pubs.aip.org/aip/cha/article/33/4/040401/2878594",
+        "publication_title": "Dynamics on networks with higher-order interactions",
+        "type": "Journal",
+        "uuid": "i-q_GwXCmLnf"
+    },
+    "i-r63xydkUSA": {
+        "bibtex": "@article{kotanidis2022constructing,\n  title={Constructing custom-made radiotranscriptomic signatures of vascular inflammation from routine CT angiograms: a prospective outcomes validation study in COVID-19},\n  author={Kotanidis, Christos P and Xie, Cheng and Alexander, Donna and Rodrigues, Jonathan CL and Burnham, Katie and Mentzer, Alexander and O\u2019Connor, Daniel and Knight, Julian and Siddique, Muhammad and Lockstone, Helen and others},\n  journal={The Lancet Digital Health},\n  volume={4},\n  number={10},\n  pages={e705--e716},\n  year={2022},\n  publisher={Elsevier}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Omics",
+            "Immunology",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00132-7/fulltext",
+        "publication_title": "Constructing custom-made radiotranscriptomic signatures of vascular inflammation from routine CT angiograms: a prospective outcomes validation study in COVID-19",
+        "type": "Journal",
+        "uuid": "i-r63xydkUSA"
+    },
+    "i-rzgfe9f6kY": {
+        "bibtex": "@article{michailovici2014nuclear,\n  title={Nuclear to cytoplasmic shuttling of ERK promotes differentiation of muscle stem/progenitor cells},\n  author={Michailovici, Inbal and Harrington, Heather A and Azogui, Hadar Hay and Yahalom-Ronen, Yfat and Plotnikov, Alexander and Ching, Saunders and Stumpf, Michael PH and Klein, Ophir D and Seger, Rony and Tzahor, Eldad},\n  journal={Development},\n  volume={141},\n  number={13},\n  pages={2611--2620},\n  year={2014},\n  publisher={The Company of Biologists}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.biologists.com/dev/article/141/13/2611/46291/Nuclear-to-cytoplasmic-shuttling-of-ERK-promotes?guestAccessKey=",
+        "publication_title": "Nuclear to cytoplasmic shuttling of ERK promotes differentiation of muscle stem/progenitor cells",
+        "type": "Journal",
+        "uuid": "i-rzgfe9f6kY"
+    },
+    "i-sFnfIahjRI": {
+        "bibtex": "@misc{offord2022topologicaldataanalysisdetects,\n      title={Topological Data Analysis Detects Percolation Thresholds in Arctic Melt-Pond Evolution}, \n      author={Wilfred Offord and Michael Coughlan and Ian J. Hewitt and Heather A. Harrington and Gillian Grindstaff},\n      year={2022},\n      eprint={2212.07961},\n      archivePrefix={arXiv},\n      primaryClass={physics.data-an},\n      url={https://arxiv.org/abs/2212.07961}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Other Applications"
+        ],
+        "link_arxiv": "https://arxiv.org/abs/2212.07961",
+        "link_publication": "",
+        "publication_title": "Topological Data Analysis Detects Percolation Thresholds in Arctic Melt-Pond Evolution",
+        "type": "Journal",
+        "uuid": "i-sFnfIahjRI"
+    },
+    "i-tUlctwEHqF": {
+        "bibtex": "@misc{hess2025celldecompositionspersistentminimal,\n      title={Cell decompositions of persistent minimal models}, \n      author={Kathryn Hess and Samuel Lavenir and Kelly Maggs},\n      year={2025},\n      eprint={2312.08326},\n      archivePrefix={arXiv},\n      primaryClass={math.AT},\n      url={https://arxiv.org/abs/2312.08326}, \n}",
+        "group_member_authors": [
+            {
+                "name": "Kelly Maggs",
+                "uuid": "i-yDgObOpSCJ"
+            }
+        ],
+        "keywords": [],
+        "link_arxiv": "https://arxiv.org/abs/2312.08326",
+        "link_publication": "",
+        "publication_title": "Cell decompositions of persistent minimal models",
+        "type": "Journal",
+        "uuid": "i-tUlctwEHqF"
+    },
+    "i-uMBcUmZTdA": {
+        "bibtex": "@article{torras2025topology,\n  title={Topology across scales on heterogeneous cell data},\n  author={Torras-P{\\'e}rez, Maria and Yoon, Iris HR and Weeratunga, Praveen and Ho, Ling-Pei and Byrne, Helen M and Tillmann, Ulrike and Harrington, Heather A},\n  journal={PLoS computational biology},\n  volume={21},\n  number={10},\n  pages={e1013460},\n  year={2025},\n  publisher={Public Library of Science San Francisco, CA USA}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Morphology & Spatial Biology",
+            "Oncology"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013460",
+        "publication_title": "Topology across scales on heterogeneous cell data",
+        "type": "Journal",
+        "uuid": "i-uMBcUmZTdA"
+    },
+    "i-uUtHdWQDje": {
+        "bibtex": "@article{benjamin2023Homology,\n title = {Homology of homologous knotted proteins},\n volume = {20},\n url = {https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0727},\n doi = {10.1098/rsif.2022.0727},\n number = {201},\n journal = {Journal of the Royal Society Interface},\n author = {Benjamin, Katherine and Mukta, Lamisah and Moryoussef, Gabriel and Uren, Christopher and Harrington, Heather A. and Tillmann, Ulrike and Barbensi, Agnese},\n month = apr,\n year = {2023},\n keywords = {62R40, 55N31, 57K10, Quantitative Biology - Biomolecules, algebraic topology, geometric topology},\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0727",
+        "publication_title": "Homology of homologous knotted proteins",
+        "type": "Journal",
+        "uuid": "i-uUtHdWQDje"
+    },
+    "i-vVgG3nA4pQ": {
+        "bibtex": "@article{harrington2019parameter,\n  title={A Parameter-Free Model Comparison Test Using Differential Algebra},\n  author={Harrington, Heather A and Ho, Kenneth L and Meshkat, Nicolette},\n  journal={Complexity},\n  volume={2019},\n  number={1},\n  pages={6041981},\n  year={2019},\n  publisher={Wiley Online Library}\n}\n",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2019/6041981",
+        "publication_title": "A Parameter-Free Model Comparison Test Using Differential Algebra",
+        "type": "Journal",
+        "uuid": "i-vVgG3nA4pQ"
+    },
+    "i-x8GljmelGi": {
+        "bibtex": "@article{stolz2017persistent,  \n  title={Persistent homology of time-dependent functional networks constructed from coupled time series},  \n  author={Stolz, Bernadette J and Harrington, Heather A and Porter, Mason A},  \n  journal={Chaos: An Interdisciplinary Journal of Nonlinear Science},  \n  volume={27},  \n  number={4},  \n  year={2017},  \n  publisher={AIP Publishing}  \n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://pubs.aip.org/aip/cha/article/27/4/047410/322562",
+        "publication_title": "Persistent homology of time-dependent functional networks constructed from coupled time series",
+        "type": "Journal",
+        "uuid": "i-x8GljmelGi"
+    },
+    "i-xlPGsErAj0": {
+        "bibtex": "@article{cornish2024genomic,\n  title={The genomic landscape of 2,023 colorectal cancers},\n  author={Cornish, Alex J and Gruber, Andreas J and Kinnersley, Ben and Chubb, Daniel and Frangou, Anna and Caravagna, Giulio and Noyvert, Boris and Lakatos, Eszter and Wood, Henry M and Thorn, Steve and others},\n  journal={Nature},\n  volume={633},\n  number={8028},\n  pages={127--136},\n  year={2024},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Anna Frangou",
+                "uuid": "i-Lyudz32Y-G"
+            }
+        ],
+        "keywords": [
+            "Oncology",
+            "Omics",
+            "Biological Networks",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41586-024-07747-9",
+        "publication_title": "The genomic landscape of 2,023 colorectal cancers",
+        "type": "Journal",
+        "uuid": "i-xlPGsErAj0"
+    },
+    "i-yKLDwLpiOD": {
+        "bibtex": "@article{harrington2026algebraic,\n  title={Algebraic aspects of homogeneous Kuramoto oscillators},\n  author={Harrington, Heather and Schenck, Hal and Stillman, Mike},\n  journal={Mathematics of Computation},\n  volume={95},\n  number={358},\n  pages={1023--1047},\n  year={2026}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.ams.org/journals/mcom/2026-95-358/S0025-5718-2025-04072-9/",
+        "publication_title": "Algebraic aspects of homogeneous Kuramoto oscillators",
+        "type": "Journal",
+        "uuid": "i-yKLDwLpiOD"
+    },
+    "i-yrJOdUq_6V": {
+        "bibtex": "@article{gross2020joining,\n  title={Joining and decomposing reaction networks},\n  author={Gross, Elizabeth and Harrington, Heather and Meshkat, Nicolette and Shiu, Anne},\n  journal={Journal of mathematical biology},\n  volume={80},\n  number={6},\n  pages={1683--1731},\n  year={2020},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1007/s00285-020-01477-y",
+        "publication_title": "Joining and decomposing reaction networks",
+        "type": "Journal",
+        "uuid": "i-yrJOdUq_6V"
+    },
+    "i-z6QYOL0wNn": {
+        "bibtex": "@article{maclean2016mathematical,\n  title={Mathematical and statistical techniques for systems medicine: the Wnt signaling pathway as a case study},\n  author={MacLean, Adam L and Harrington, Heather A and Stumpf, Michael PH and Byrne, Helen M},\n  journal={Systems Medicine},\n  pages={405--439},\n  year={2016},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/protocol/10.1007/978-1-4939-3283-2_18",
+        "publication_title": "Mathematical and statistical techniques for systems medicine: the Wnt signaling pathway as a case study",
+        "type": "Journal",
+        "uuid": "i-z6QYOL0wNn"
+    },
+    "i-zq1tRXLTEg": {
+        "bibtex": "@article{harrington2008construction,\n  title={Construction and analysis of a modular model of caspase activation in apoptosis},\n  author={Harrington, Heather A and Ho, Kenneth L and Ghosh, Samik and Tung, KC},\n  journal={Theoretical Biology and Medical Modelling},\n  volume={5},\n  number={1},\n  pages={26},\n  year={2008},\n  publisher={Springer}\n}",
+        "group_member_authors": [
+            {
+                "name": "Heather Harrington",
+                "uuid": "i-dsCt4S6lGo"
+            }
+        ],
+        "keywords": [
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://link.springer.com/article/10.1186/1742-4682-5-26",
+        "publication_title": "Construction and analysis of a modular model of caspase activation in apoptosis",
+        "type": "Journal",
+        "uuid": "i-zq1tRXLTEg"
+    },
+    "i-zyMB7g4eSq": {
+        "bibtex": "@article{culliford2024whole,\n  title={Whole genome sequencing refines stratification and therapy of patients with clear cell renal cell carcinoma},\n  author={Culliford, Richard and Lawrence, Samuel ED and Mills, Charlie and Tippu, Zayd and Chubb, Daniel and Cornish, Alex J and Browning, Lisa and Kinnersley, Ben and Bentham, Robert and Sud, Amit and others},\n  journal={Nature communications},\n  volume={15},\n  number={1},\n  pages={5935},\n  year={2024},\n  publisher={Nature Publishing Group UK London}\n}",
+        "group_member_authors": [
+            {
+                "name": "Anna Frangou",
+                "uuid": "i-Lyudz32Y-G"
+            }
+        ],
+        "keywords": [
+            "Oncology",
+            "Omics",
+            "Other Applications"
+        ],
+        "link_arxiv": "",
+        "link_publication": "https://www.nature.com/articles/s41467-024-49692-1",
+        "publication_title": "Whole genome sequencing refines stratification and therapy of patients with clear cell renal cell carcinoma",
+        "type": "Journal",
+        "uuid": "i-zyMB7g4eSq"
+    }
+}

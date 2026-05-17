@@ -1,0 +1,2107 @@
+{
+    "i--8nnJ4J-Q2": {
+        "bio_short": "",
+        "dates_active": "2021-2023",
+        "email": "",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Oliver",
+        "name_full": "Oliver G\u00e4fvert",
+        "name_last": "G\u00e4fvert",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i--8nnJ4J-Q2"
+    },
+    "i--qw4-brVqW": {
+        "bio_short": "Gill works in geometric data analysis, phylogenetics, and applied and computational topology.",
+        "dates_active": "2021-",
+        "email": "grindstaff@maths.ox.ac.uk",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Topological Data Analysis",
+            "Applied Algebraic Geometry & Tensors",
+            "Oncology",
+            "Morphology & Spatial Biology"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/ggrindstaff",
+        "link_google_scholar": "https://scholar.google.com/citations?user=t1VREKoAAAAJ&hl=en",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0002-3993-1510",
+        "link_website": "",
+        "name_first": "Gill",
+        "name_full": "Gillian Grindstaff",
+        "name_last": "Grindstaff",
+        "photo": {
+            "have_consent": true,
+            "filename": "Gill-9.JPG",
+            "date_consented": "2025-11-13"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i--qw4-brVqW"
+    },
+    "i-2iUtBT5ACC": {
+        "bio_short": "",
+        "dates_active": "2024",
+        "email": "dtolosav@asu.edu",
+        "internal_roles": [
+            "Long Term Visitor",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Daniel",
+        "name_full": "Daniel Tolosa",
+        "name_last": "Tolosa",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [
+            {
+                "Publication title": "Discrete signature tensors for persistence landscapes",
+                "uuid": "i-1QEfyMg1fC"
+            }
+        ],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-2iUtBT5ACC"
+    },
+    "i-2jPb7FVLFJ": {
+        "bio_short": "",
+        "dates_active": "2019-2024",
+        "email": "dbeers@math.ucla.edu",
+        "internal_roles": [
+            "Alumnus",
+            "Postdoc",
+            "PhD Student"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://people.maths.ox.ac.uk/beers/",
+        "name_first": "David",
+        "name_full": "David Beers",
+        "name_last": "Beers",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-2jPb7FVLFJ"
+    },
+    "i-3ILpkyelnH": {
+        "bio_short": "Maria is a PhD student at Oxford working on applications of persistent homology to biological data analysis, alongside the theory of multiparameter persistence. Her research aims to bridge rigorous mathematics with biological understanding through interpretable and transparent methods.",
+        "dates_active": "2023-",
+        "email": "maria.torrasperez@maths.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "Heather Harrington and Ulrike Tillmann",
+        "keywords": [
+            "Topological Data Analysis"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/mariatorras",
+        "link_google_scholar": "https://scholar.google.com/citations?user=Ckji5tEAAAAJ",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0009-0006-3413-0550",
+        "link_website": "",
+        "name_first": "Maria",
+        "name_full": "Maria Torras P\u00e9rez",
+        "name_last": "Torras P\u00e9rez",
+        "photo": {
+            "have_consent": true,
+            "filename": "Maria Torras Perez-1.jpg",
+            "date_consented": "2025-11-10"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-3ILpkyelnH"
+    },
+    "i-4LID9SJJLc": {
+        "bio_short": "An applied mathematician interested in dynamical systems, chemical reaction network theory, topological data analysis, and systems biology.",
+        "dates_active": "2015-2019",
+        "email": "",
+        "internal_roles": [
+            "PhD Student",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Michael",
+        "name_full": "Michael Adamer",
+        "name_last": "Adamer",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-4LID9SJJLc"
+    },
+    "i-5JhnTb06rJ": {
+        "bio_short": "Vincenzo works in algebraic geometry at the edge of representation theory, with a particular focus on tensors and their algebraic varieties — secant varieties, Hilbert schemes of points, and varieties enriched with group actions.",
+        "dates_active": "2024-",
+        "email": "galgano@mpi-cbg.de",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Other Applications"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "https://scholar.google.com/citations?hl=en&user=5PffaFAAAAAJ",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://sites.google.com/view/vincenzogalgano",
+        "name_first": "Vincenzo",
+        "name_full": "Vincenzo Galgano",
+        "name_last": "Galgano",
+        "photo": {
+            "have_consent": true,
+            "filename": "passport-photo_galgano.jpg",
+            "date_consented": "2025-12-18"
+        },
+        "publications": [
+            {
+                "Publication title": "Discrete signature tensors for persistence landscapes",
+                "uuid": "i-1QEfyMg1fC"
+            },
+            {
+                "Publication title": "The GameTheory package for Macaulay2",
+                "uuid": "i-oklYdnzaHi"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-5JhnTb06rJ"
+    },
+    "i-5kcqOdWg8y": {
+        "bio_short": "",
+        "dates_active": "2025",
+        "email": "iolo.j.jones@durham.ac.uk",
+        "internal_roles": [
+            "Long Term Visitor",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://www.iolojones.co.uk/",
+        "name_first": "Iolo",
+        "name_full": "Iolo Jones",
+        "name_last": "Jones",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-5kcqOdWg8y"
+    },
+    "i-6C4yJsmsSW": {
+        "bio_short": "A Postdoctoral Research Associate at the Mathematical Insititute, Oxford. His research focuses on theoretical aspects of topological data analysis and its interactions with various areas of geometry, analysis and dynamics.",
+        "dates_active": "2025-",
+        "email": "vukasin.stojisavljevic@maths.ox.ac.uk",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Topological Data Analysis",
+            "Dynamical Systems & Mathematical Modeling"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0002-9340-9256",
+        "link_website": "https://sites.google.com/view/vukasin-stojisavljevic/",
+        "name_first": "Vuka\u0161in",
+        "name_full": "Vuka\u0161in Stojisavljevi\u0107",
+        "name_last": "Stojisavljevi\u0107",
+        "photo": {
+            "have_consent": true,
+            "filename": "Profilna.jpg",
+            "date_consented": "2025-11-10"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-6C4yJsmsSW"
+    },
+    "i-6DMM0Se4y6": {
+        "bio_short": "",
+        "dates_active": "2024-2026",
+        "email": "scholten@mpi-cbg.de",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0002-7135-3036",
+        "link_website": "https://gescholt.github.io/",
+        "name_first": "Georgy",
+        "name_full": "Georgy Scholten",
+        "name_last": "Scholten",
+        "photo": {
+            "have_consent": true,
+            "filename": "Scholten_Georgy_7hwc8Tr.jpg",
+            "date_consented": "2025-11-11"
+        },
+        "publications": [
+            {
+                "Publication title": "Probabilistic algorithm for computing all local minimizers of Morse functions on a compact domain",
+                "uuid": "i-EFp_eG2Ui9"
+            },
+            {
+                "Publication title": "Strata of Ecological Coexistence via Grassmannians",
+                "uuid": "i-2jHHqrR2v8"
+            }
+        ],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-6DMM0Se4y6"
+    },
+    "i-8GFXYXc870": {
+        "bio_short": "PhD student at the University of Oxford interested in analyzing spatial relationships through algebraic topology.",
+        "dates_active": "2024-",
+        "email": "abhinav.natarajan@maths.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "Heather Harrington (MPI-CBG) and Ulrike Tillmann (University of Oxford)",
+        "keywords": [
+            "Topological Data Analysis",
+            "Software & Computational Mathematics"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/abhinavnatarajan",
+        "link_google_scholar": "https://scholar.google.com/citations?user=hT_KzXcAAAAJ&hl=en",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0002-2563-6721",
+        "link_website": "abhinavnatarajan.org",
+        "name_first": "Abhinav",
+        "name_full": "Abhinav Natarajan",
+        "name_last": "Natarajan",
+        "photo": {
+            "have_consent": true,
+            "filename": "IMG_2644_enhanced_square.png",
+            "date_consented": "2025-11-10"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-8GFXYXc870"
+    },
+    "i-AQRxMaIlMI": {
+        "bio_short": "Matthias Arzt is a Research Software Engineer at the Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG) in Dresden. He develops and maintains computational tools for biological image analysis, with a focus on image segmentation and cell tracking. Matthias contributes to open-source projects such as ImageJ, Labkit and Mastodon, supporting scientists in extracting quantitative insights from complex microscopy data.",
+        "dates_active": "2024-",
+        "email": "arzt@mpi-cbg.de",
+        "internal_roles": [
+            "Staff Scientist"
+        ],
+        "joint_supervision_information": "Meritxell Huch, Heather Harrington",
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Software & Computational Mathematics"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/maarzt",
+        "link_google_scholar": "https://scholar.google.de/citations?user=D_OHjsEAAAAJ&hl=en&oi=sra",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Matthias",
+        "name_full": "Matthias Arzt",
+        "name_last": "Arzt",
+        "photo": {
+            "have_consent": true,
+            "filename": "Arzt_Matthias_YBbqRLu.jpg",
+            "date_consented": "2025-12-18"
+        },
+        "publications": [
+            {
+                "Publication title": "Topology identifies concurrent cyclic processes in single-cell transcriptomics and androgen receptor function",
+                "uuid": "i-dOgrCLbDdZ"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-AQRxMaIlMI"
+    },
+    "i-AecZQSk2p6": {
+        "bio_short": "Katherine is a DPhil student at Oxford working on applications of topology to spatial biology. She is especially interested in multiparameter persistent homology, and methods for single-cell and spatial transcriptomics.",
+        "dates_active": "2021-",
+        "email": "katherine.benjamin@maths.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "Ulrike Tillmann",
+        "keywords": [
+            "Topological Data Analysis",
+            "Morphology & Spatial Biology"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/katherine-benjamin",
+        "link_google_scholar": "https://scholar.google.com/citations?user=TWNlVF0AAAAJ",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0001-8152-7063",
+        "link_website": "https://people.maths.ox.ac.uk/benjamin/",
+        "name_first": "Kate",
+        "name_full": "Kate Benjamin",
+        "name_last": "Benjamin",
+        "photo": {
+            "have_consent": true,
+            "filename": "Katherine AWB-2 copy-2.jpg",
+            "date_consented": "2025-11-12"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-AecZQSk2p6"
+    },
+    "i-Af4IDIK0fx": {
+        "bio_short": "",
+        "dates_active": "2017-2020",
+        "email": "a.barbensi@uq.edu.au",
+        "internal_roles": [
+            "PhD Student",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://sites.google.com/view/agnesebarbensi/home",
+        "name_first": "Agnese",
+        "name_full": "Agnese Barbensi",
+        "name_last": "Barbensi",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-Af4IDIK0fx"
+    },
+    "i-AlCPudgR_V": {
+        "bio_short": "",
+        "dates_active": "2025-",
+        "email": "ilaria.pellegrinelli@studenti.unitn.it",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Ilaria",
+        "name_full": "Ilaria Pellegrinelli",
+        "name_last": "Pellegrinelli",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-AlCPudgR_V"
+    },
+    "i-BLqvm5ExuR": {
+        "bio_short": "Lucy's research focuses on developing and applying Topological Data Analysis to the analysis of spatial sub-cellular biological data. I completed my Masters in mathematics at the University of Oxford, and researched on supersymmetric quantum field theory. ",
+        "dates_active": "2025-",
+        "email": "ljiang@mpi-cbg.de",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Topological Data Analysis",
+            "Software & Computational Mathematics",
+            "Morphology & Spatial Biology"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "https://scholar.google.com/citations?user=fy8jT8AAAAAJ",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0009-0002-0756-5760",
+        "link_website": "https://leyijiang17.github.io/",
+        "name_first": "Leyi (Lucy)",
+        "name_full": "Leyi (Lucy) Jiang",
+        "name_last": "Jiang",
+        "photo": {
+            "have_consent": true,
+            "filename": "Jiang_Leyi.jpg",
+            "date_consented": "2025-11-10"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-BLqvm5ExuR"
+    },
+    "i-FTBnwS7Zla": {
+        "bio_short": "",
+        "dates_active": "2014-2018",
+        "email": "nina.otter@universite-saclay.fr",
+        "internal_roles": [
+            "PhD Student",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://www.ninaotter.com/",
+        "name_first": "Nina",
+        "name_full": "Nina Otter",
+        "name_last": "Otter",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-FTBnwS7Zla"
+    },
+    "i-JUHGV544TB": {
+        "bio_short": "",
+        "dates_active": "2020-2022",
+        "email": "",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Gregory",
+        "name_full": "Gregory Henselman-Petrusek",
+        "name_last": "Henselman-Petrusek",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-JUHGV544TB"
+    },
+    "i-Lyudz32Y-G": {
+        "bio_short": "A cancer genomics scientist turned science communicator, Anna brings rare dual fluency in research and its public life to the MPI Center for Systems Biology.",
+        "dates_active": "2023-",
+        "email": "frangou@mpi-cbg.de",
+        "internal_roles": [
+            "Staff Scientist"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Oncology",
+            "Omics",
+            "Identifiability, Statistics, & AI",
+            "Immunology",
+            "Biological Networks"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/afrangou",
+        "link_google_scholar": "https://scholar.google.com/citations?user=-lH5I1kAAAAJ&hl=en&oi=ao",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0001-6990-2756",
+        "link_website": "www.annafrangou.com",
+        "name_first": "Anna",
+        "name_full": "Anna Frangou",
+        "name_last": "Frangou",
+        "photo": {
+            "have_consent": true,
+            "filename": "unnamed-4.jpg",
+            "date_consented": "2025-12-15"
+        },
+        "publications": [
+            {
+                "Publication title": "The genomic landscape of 2,023 colorectal cancers",
+                "uuid": "i-xlPGsErAj0"
+            },
+            {
+                "Publication title": "Whole genome sequencing refines stratification and therapy of patients with clear cell renal cell carcinoma",
+                "uuid": "i-zyMB7g4eSq"
+            },
+            {
+                "Publication title": "Genomic landscape of adult testicular germ cell tumours in the 100,000 Genomes Project",
+                "uuid": "i-NNEHllVorW"
+            },
+            {
+                "Publication title": "Genomic landscape of diffuse glioma revealed by whole genome sequencing",
+                "uuid": "i-clQmKrwBiZ"
+            },
+            {
+                "Publication title": "Replication-associated mechanisms contribute to an increased CpG> TpG mutation burden in mismatch repair-deficient cancers",
+                "uuid": "i-JNyurHE5E-"
+            },
+            {
+                "Publication title": "Comprehensive repertoire of the chromosomal alteration and mutational signatures across 16 cancer types",
+                "uuid": "i-5WcsBdmquC"
+            },
+            {
+                "Publication title": "Contrasting features of papillary and chromophobe renal cell carcinoma revealed by whole genome sequencing.",
+                "uuid": "i-QNDrgocugm"
+            },
+            {
+                "Publication title": "Tumor monocyte content predicts immunochemotherapy outcomes in esophageal adenocarcinoma",
+                "uuid": "i-fbQ0wMR0dK"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-Lyudz32Y-G"
+    },
+    "i-PbmboQGKAK": {
+        "bio_short": "",
+        "dates_active": "2020-2022",
+        "email": "r.s.hoekzema@vu.nl",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://reneehoekzema.nl/",
+        "name_first": "Renee",
+        "name_full": "Renee Hoekzema",
+        "name_last": "Hoekzema",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-PbmboQGKAK"
+    },
+    "i-Qqgaz6J0XW": {
+        "bio_short": "Sergio's main interests are Topological Data Analysis and Network Science, and their applications to spatial biology — particularly the study of colorectal can…Sergio's main interests are Topological Data Analysis and Network Science, and their applications to spatial biology — particularly the study of colorectal cancer, the main focus of his PhD. He has also worked with curvature measures on networks, and has a strong interest in mathematical outreach."
+        ,"dates_active": "2023-",
+        "email": "sergio.serrano@maths.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "Co-supervised by Heather Harrington, Helen Byrne, Simon Leedham, Joshua Moore.",
+        "keywords": [
+            "Topological Data Analysis",
+            "Oncology"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/SerSerIv",
+        "link_google_scholar": "https://scholar.google.com/citations?user=7JNG6b4AAAAJ&hl=en",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0009-0000-3711-0121",
+        "link_website": "https://sergio-sdhi.com",
+        "name_first": "Sergio",
+        "name_full": "Sergio Serrano de Haro Ivanez",
+        "name_last": "Serrano de Haro Ivanez",
+        "photo": {
+            "have_consent": true,
+            "filename": "IMG_4138_edited.jpg",
+            "date_consented": "2025-11-12"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-Qqgaz6J0XW"
+    },
+    "i-RYGFnsbWA1": {
+        "bio_short": "",
+        "dates_active": "2020-2024",
+        "email": "sumray@mpi-cbg.de",
+        "internal_roles": [
+            "PhD Student",
+            "Alumnus",
+            "Research Fellow"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://ottosumray.xyz/",
+        "name_first": "Otto",
+        "name_full": "Otto Sumray",
+        "name_last": "Sumray",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-RYGFnsbWA1"
+    },
+    "i-SrkpsoPzq-": {
+        "bio_short": "Nikola's research focuses on developing topological methods to address problems in discrete geometry and combinatorics, as well as investigating questions in algebraic and applied topology. He loves discussing math with people from different backgrounds, where different viewpoints can reveal surprising connections.",
+        "dates_active": "2025-",
+        "email": "sadovek@mpi-cbg.de",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Topological Data Analysis"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "https://scholar.google.com/citations?user=24XFP3AAAAAJ&hl=en",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0001-7478-7537",
+        "link_website": "https://sites.google.com/view/nikola-sadovek",
+        "name_first": "Nikola",
+        "name_full": "Nikola Sadovek",
+        "name_last": "Sadovek",
+        "photo": {
+            "have_consent": true,
+            "filename": "Sadovek_Nikola.jpg",
+            "date_consented": "2025-11-19"
+        },
+        "publications": [
+            {
+                "Publication title": "Quantifying discontinuity",
+                "uuid": "i-qQkHrOH2xw"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-SrkpsoPzq-"
+    },
+    "i-Tw7VWjvnLC": {
+        "bio_short": "",
+        "dates_active": "2019-2022",
+        "email": "spendlove@google.com",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://kellyspendlove.github.io/",
+        "name_first": "Kelly",
+        "name_full": "Kelly Spendlove",
+        "name_last": "Spendlove",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-Tw7VWjvnLC"
+    },
+    "i-UEPPJk67Gx": {
+        "bio_short": "",
+        "dates_active": "2019-2023",
+        "email": "stolz@biochem.mpg.de",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus",
+            "PhD Student"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://bernadettestolz.me/",
+        "name_first": "Bernadette",
+        "name_full": "Bernadette Stolz",
+        "name_last": "Stolz",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Prof. Dr.",
+        "uuid": "i-UEPPJk67Gx"
+    },
+    "i-UPeaSxDqc9": {
+        "bio_short": "Ben is a PhD student (Oxford, Dresden) studying topological transforms and their applications to biological structure morphologies.",
+        "dates_active": "2023-",
+        "email": "haochen.yang@stcatz.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "Joint supervised by Prof. Heather Harrington and Prof. Helen Byrne.",
+        "keywords": [
+            "Topological Data Analysis",
+            "Morphology & Spatial Biology"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/reddevil0623",
+        "link_google_scholar": "https://scholar.google.com/citations?user=pRHywlsAAAAJ&hl=en",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Ben",
+        "name_full": "Ben Yang",
+        "name_last": "Yang",
+        "photo": {
+            "have_consent": true,
+            "filename": "Yang_Haochen.jpg",
+            "date_consented": "2025-11-10"
+        },
+        "publications": [
+            {
+                "Publication title": "Mouse liver assembloids model periportal architecture and biliary fibrosis",
+                "uuid": "i-3gzfSFUzjN"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "Mr.",
+        "uuid": "i-UPeaSxDqc9"
+    },
+    "i-VT1LbNBADG": {
+        "bio_short": "",
+        "dates_active": "2019-2021",
+        "email": "aseigal@seas.harvard.edu",
+        "internal_roles": [
+            "Research Fellow",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://seigal.github.io/",
+        "name_first": "Anna",
+        "name_full": "Anna Seigal",
+        "name_last": "Seigal",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Prof. Dr.",
+        "uuid": "i-VT1LbNBADG"
+    },
+    "i-YB8Eg4RDLG": {
+        "bio_short": "Adi's research interests include topological singularities in data, computational derived sheaf theory, and representations of Lie groups. Their current research involves cellular microlocal geometry and its applications to topological data analysis.",
+        "dates_active": "2025-",
+        "email": "adi.onus@ludwig.ox.ac.uk",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "https://scholar.google.com/citations?user=TwFJ2GQAAAAJ&hl=en&oi=ao",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://aonus0.wixsite.com/website",
+        "name_first": "Adi",
+        "name_full": "Adi Onus",
+        "name_last": "Onus",
+        "photo": {
+            "have_consent": true,
+            "filename": "cd80d012-316c-486e-843a-b6e2fdbf7ddd.jpg",
+            "date_consented": "2025-11-13"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-YB8Eg4RDLG"
+    },
+    "i-aV5LmwqN0n": {
+        "bio_short": "Lida's work explores how topology and applied mathematics can shape the future of neuroscience — combining topological data analysis, machine learning, and computational modelling to study brain morphologies, understand pathologies, and improve diagnostic tools.",
+        "dates_active": "2025-",
+        "email": "lida.kanari@maths.ox.ac.uk",
+        "internal_roles": [
+            "Research Fellow"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://www.maths.ox.ac.uk/people/lida.kanari",
+        "name_first": "Lida",
+        "name_full": "Lida Kanari",
+        "name_last": "Kanari",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-aV5LmwqN0n"
+    },
+    "i-bS8leO07i2": {
+        "bio_short": "",
+        "dates_active": "2023-2024",
+        "email": "oliveri@maths.ox.ac.uk",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Hadrien",
+        "name_full": "Hadrien Oliveri",
+        "name_last": "Oliveri",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [
+            {
+                "Publication title": "Active shape control by plants in dynamic environments",
+                "uuid": "i-k2Pe-cuqv-"
+            },
+            {
+                "Publication title": "Robust posture control by plants in dynamic gravity field",
+                "uuid": "i-HjJfMgEye6"
+            }
+        ],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-bS8leO07i2"
+    },
+    "i-btaFusc4EQ": {
+        "bio_short": "",
+        "dates_active": "2025",
+        "email": "demin@mpi-cbg.de",
+        "internal_roles": [
+            "Intern",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Alexander",
+        "name_full": "Alexander Demin",
+        "name_last": "Demin",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "",
+        "uuid": "i-btaFusc4EQ"
+    },
+    "i-dsCt4S6lGo": {
+        "bio_short": "A Director at MPI-CBG, Dresden and Professor of Mathematics at the University of Oxford. Her research develops new mathematical frameworks in algebra, topology, and dynamical systems to extract structure and meaning from complex biological data.",
+        "dates_active": "2020-",
+        "email": "harrington@mpi-cbg.de",
+        "internal_roles": [
+            "Director"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Topological Data Analysis",
+            "Software & Computational Mathematics",
+            "Identifiability, Statistics, & AI",
+            "Dynamical Systems & Mathematical Modeling",
+            "Biological Networks",
+            "Morphology & Spatial Biology",
+            "Omics",
+            "Oncology",
+            "Immunology",
+            "Neuroscience",
+            "Other Applications"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://www.mpi-cbg.de/research/researchgroups/currentgroups/heather-harrington/research",
+        "name_first": "Heather",
+        "name_full": "Heather Harrington",
+        "name_last": "Harrington",
+        "photo": {
+            "have_consent": true,
+            "filename": "Harrington_Heather.jpg",
+            "date_consented": "2026-02-24"
+        },
+        "publications": [
+            {
+                "Publication title": "On the hidden layer-to-layer topology of the representations of reality realised within neural networks",
+                "uuid": "i-kxH8ken0gv"
+            },
+            {
+                "Publication title": "Topology identifies concurrent cyclic processes in single-cell transcriptomics and androgen receptor function",
+                "uuid": "i-dOgrCLbDdZ"
+            },
+            {
+                "Publication title": "Discrete signature tensors for persistence landscapes",
+                "uuid": "i-1QEfyMg1fC"
+            },
+            {
+                "Publication title": "Topology across scales on heterogeneous cell data",
+                "uuid": "i-dD9JZZc55C"
+            },
+            {
+                "Publication title": "Topological model selection: a case-study in tumour-induced angiogenesis",
+                "uuid": "i-ELuI7afqJr"
+            },
+            {
+                "Publication title": "Nondimensionalization is more science than art",
+                "uuid": "i-EVwVb_8tE9"
+            },
+            {
+                "Publication title": "A notion of homotopy for directed graphs and their flag complexes",
+                "uuid": "i-H5ZVlTRyCy"
+            },
+            {
+                "Publication title": "Topological Data Analysis Detects Percolation Thresholds in Arctic Melt-Pond Evolution",
+                "uuid": "i-sFnfIahjRI"
+            },
+            {
+                "Publication title": "Persistent Cycle Representatives and Generalized Landscapes for Codimension 1 Persistent Homology",
+                "uuid": "i-XC6rxqwpxU"
+            },
+            {
+                "Publication title": "Multiscale topology classifies cells in subcellular spatial transcriptomics",
+                "uuid": "i-0y50fBnilv"
+            },
+            {
+                "Publication title": "Homology of homologous knotted proteins",
+                "uuid": "i-uUtHdWQDje"
+            },
+            {
+                "Publication title": "Cover Learning for Large-Scale Topology Representation",
+                "uuid": "i-VVTPhoC6CL"
+            },
+            {
+                "Publication title": "On the hidden layer-to-layer topology of the representations of reality realised within neural networks",
+                "uuid": "i-YZByburHsq"
+            },
+            {
+                "Publication title": "Algebraic aspects of homogeneous Kuramoto oscillators",
+                "uuid": "i-yKLDwLpiOD"
+            },
+            {
+                "Publication title": "Topological model selection: a case-study in tumour-induced angiogenesis",
+                "uuid": "i-WJfsxfVa-u"
+            },
+            {
+                "Publication title": "Topology of Multi-species Localization",
+                "uuid": "i-P-1i0EnL8o"
+            },
+            {
+                "Publication title": "Hypergraphs and simplicial complexes in focus: A roadmap for future research in higher-order interactions",
+                "uuid": "i-QBXzMLAHFp"
+            },
+            {
+                "Publication title": "Persistent homology classifies parameter dependence of patterns in Turing systems",
+                "uuid": "i-VsOOID_Mgq"
+            },
+            {
+                "Publication title": "Combinatorial geometry of rational quasi-independence models as toric fiber products",
+                "uuid": "i-n8W65ony0b"
+            },
+            {
+                "Publication title": "Topology across scales on heterogeneous cell data",
+                "uuid": "i-uMBcUmZTdA"
+            },
+            {
+                "Publication title": "Grounded persistent path homology: a stable, topological descriptor for weighted digraphs",
+                "uuid": "i-lZCIIZITyN"
+            },
+            {
+                "Publication title": "A topological approach to the Cahn-Hilliard equation and hyperuniform fields",
+                "uuid": "i-Q5lOtWZLME"
+            },
+            {
+                "Publication title": "Topological classification of tumour-immune interactions and dynamics: J. Yang et al.",
+                "uuid": "i-67WAwgHzM9"
+            },
+            {
+                "Publication title": "Mouse liver assembloids model periportal architecture and biliary fibrosis",
+                "uuid": "i-3gzfSFUzjN"
+            },
+            {
+                "Publication title": "Absolute concentration robustness: Algebra and geometry",
+                "uuid": "i-NRgfnvWxYL"
+            },
+            {
+                "Publication title": "Algebraic identifiability of partial differential equation models",
+                "uuid": "i-Sb4GLoew4v"
+            },
+            {
+                "Publication title": "Detecting temporal shape changes with the Euler characteristic transform",
+                "uuid": "i-hOt7LEz7Oj"
+            },
+            {
+                "Publication title": "Relational persistent homology for multispecies data with application to the tumor microenvironment",
+                "uuid": "i-cOZMu3cCrL"
+            },
+            {
+                "Publication title": "Algebraic network reconstruction of discrete dynamical systems",
+                "uuid": "i-TrsukcU6Ls"
+            },
+            {
+                "Publication title": "Brain chains as topological signatures for Alzheimer\u2019s disease",
+                "uuid": "i-lWPXiZuOWV"
+            },
+            {
+                "Publication title": "Topological fingerprints for audio identification",
+                "uuid": "i-5g7QpxHOFj"
+            },
+            {
+                "Publication title": "Active shape control by plants in dynamic environments",
+                "uuid": "i-k2Pe-cuqv-"
+            },
+            {
+                "Publication title": "Multiscale topology classifies cells in subcellular spatial transcriptomics",
+                "uuid": "i-bw-fakf7As"
+            },
+            {
+                "Publication title": "Robust posture control by plants in dynamic gravity field",
+                "uuid": "i-HjJfMgEye6"
+            },
+            {
+                "Publication title": "Topological Analysis of High-Resolution Spatial Transcriptomics Reveals Immune Glomerular Architecture of Lupus Nephritis: TH-PO533",
+                "uuid": "i-DQYYWvE5TE"
+            },
+            {
+                "Publication title": "Barcodes distinguishing morphology of neuronal tauopathy",
+                "uuid": "i-Vt4eJgOU9A"
+            },
+            {
+                "Publication title": "Zigzag persistence for coral reef resilience using a stochastic spatial model",
+                "uuid": "i-IfT-cEMI6K"
+            },
+            {
+                "Publication title": "Principal components along quiver representations",
+                "uuid": "i-O7FFYYxuFp"
+            },
+            {
+                "Publication title": "Dynamics on networks with higher-order interactions",
+                "uuid": "i-q_GwXCmLnf"
+            },
+            {
+                "Publication title": "Homology of homologous knotted proteins",
+                "uuid": "i-cbdcy40V92"
+            },
+            {
+                "Publication title": "Differential elimination for dynamical models via projections with applications to structural identifiability",
+                "uuid": "i-XghRf0H7Lz"
+            },
+            {
+                "Publication title": "Continuous Indexing of Fibrosis (CIF): improving the assessment and classification of MPN patients",
+                "uuid": "i-9mtdX4LzaQ"
+            },
+            {
+                "Publication title": "What are higher-order networks?",
+                "uuid": "i-5pI8t_AAlk"
+            },
+            {
+                "Publication title": "Algebra, geometry and topology of ERK kinetics",
+                "uuid": "i-Qe7ZCq31wi"
+            },
+            {
+                "Publication title": "Constructing custom-made radiotranscriptomic signatures of vascular inflammation from routine CT angiograms: a prospective outcomes validation study in COVID-19",
+                "uuid": "i-r63xydkUSA"
+            },
+            {
+                "Publication title": "Multiscale methods for signal selection in single-cell data",
+                "uuid": "i-VRijxwPU78"
+            },
+            {
+                "Publication title": "Multiscale topology characterizes dynamic tumor vascular networks",
+                "uuid": "i-5mTBf2IenY"
+            },
+            {
+                "Publication title": "Quantification of vascular networks in photoacoustic mesoscopy",
+                "uuid": "i-8X6bWvjwV5"
+            },
+            {
+                "Publication title": "Topological approximate Bayesian computation for parameter inference of an angiogenesis model",
+                "uuid": "i-4w63m-asRB"
+            },
+            {
+                "Publication title": "A blood atlas of COVID-19 defines hallmarks of disease severity and specificity",
+                "uuid": "i-Z6XP4hQROZ"
+            },
+            {
+                "Publication title": "Multiparameter persistent homology landscapes identify immune cell spatial patterns in tumors",
+                "uuid": "i-TN41-5I-9W"
+            },
+            {
+                "Publication title": "Topological data analysis of task-based fMRI data from experiments on schizophrenia",
+                "uuid": "i-gKGb4LRyuB"
+            },
+            {
+                "Publication title": "Topological data analysis distinguishes parameter regimes in the Anderson-Chaplain model of angiogenesis",
+                "uuid": "i-KJzs7B9geO"
+            },
+            {
+                "Publication title": "On some configurations of oppositely charged trapped vortices in the plane",
+                "uuid": "i-5hzPWfC8N1"
+            },
+            {
+                "Publication title": "Geometric anomaly detection in data",
+                "uuid": "i-Xm1DOotYRg"
+            },
+            {
+                "Publication title": "Joining and decomposing reaction networks",
+                "uuid": "i-yrJOdUq_6V"
+            },
+            {
+                "Publication title": "Coloured noise from stochastic inflows in reaction--diffusion systems",
+                "uuid": "i-0YlUGSA62E"
+            },
+            {
+                "Publication title": "Inference of multisite phosphorylation rate constants and their modulation by pathogenic mutations",
+                "uuid": "i-HUSOwuRBhj"
+            },
+            {
+                "Publication title": "Grid diagrams as tools to investigate knot spaces and topoisomerase-mediated simplification of DNA topology",
+                "uuid": "i-3GMC5H4OW-"
+            },
+            {
+                "Publication title": "Sampling real algebraic varieties for topological data analysis",
+                "uuid": "i-lmNUo63bTJ"
+            },
+            {
+                "Publication title": "Decomposing the parameter space of biological networks via a numerical discriminant approach",
+                "uuid": "i-3kR1Do91GJ"
+            },
+            {
+                "Publication title": "Topology characterises tumour vasculature",
+                "uuid": "i-2cuur6ylSu"
+            },
+            {
+                "Publication title": "Tensor clustering with algebraic constraints gives interpretable groups of crosstalk mechanisms in breast cancer",
+                "uuid": "i-kE7D_DE456"
+            },
+            {
+                "Publication title": "A Parameter-Free Model Comparison Test Using Differential Algebra",
+                "uuid": "i-vVgG3nA4pQ"
+            },
+            {
+                "Publication title": "Linear compartmental models: input-output equations and operations that preserve identifiability",
+                "uuid": "i-kBnABhxUXK"
+            },
+            {
+                "Publication title": "Stratifying multiparameter persistent homology",
+                "uuid": "i-B0lE-JcEp5"
+            },
+            {
+                "Publication title": "Topological data analysis of continuum percolation with disks",
+                "uuid": "i-3o99cRo-fa"
+            },
+            {
+                "Publication title": "Graph-facilitated resonant mode counting in stochastic interaction networks",
+                "uuid": "i-LW7T-fYk_t"
+            },
+            {
+                "Publication title": "A roadmap for the computation of persistent homology",
+                "uuid": "i-1hKMrbELRN"
+            },
+            {
+                "Publication title": "Nanog fluctuations in embryonic stem cells highlight the problem of measurement in cell biology",
+                "uuid": "i-GMUAnoXiEe"
+            },
+            {
+                "Publication title": "Geometric combinatorics and computational molecular biology: Branching polytopes for RNA sequences",
+                "uuid": "i-eQzrYYoPpj"
+            },
+            {
+                "Publication title": "Persistent homology of time-dependent functional networks constructed from coupled time series",
+                "uuid": "i-x8GljmelGi"
+            },
+            {
+                "Publication title": "Persistent homology of time-dependent functional networks constructed from coupled time series",
+                "uuid": "i-m6gKzIvog-"
+            },
+            {
+                "Publication title": "Reduction of dimension for nonlinear dynamical systems",
+                "uuid": "i-Zt5tSKOTYJ"
+            },
+            {
+                "Publication title": "Algebraic and geometric methods in discrete mathematics",
+                "uuid": "i-JJmUI1umu1"
+            },
+            {
+                "Publication title": "Geometric combinatorics and computational molecular biology: Branching polytopes for RNA sequences",
+                "uuid": "i--9X2ThbyKk"
+            },
+            {
+                "Publication title": "The role of the Hes1 crosstalk hub in Notch-Wnt interactions of the intestinal crypt",
+                "uuid": "i-jMP_uAuTDA"
+            },
+            {
+                "Publication title": "Reduction of dimension for nonlinear dynamical systems",
+                "uuid": "i-1kBB5v-Ffj"
+            },
+            {
+                "Publication title": "Numerical algebraic geometry for model selection and its application to the life sciences",
+                "uuid": "i-0FbwA5JtH1"
+            },
+            {
+                "Publication title": "Role of seasonality on predator--prey--subsidy population dynamics",
+                "uuid": "i-4oPXNblWeU"
+            },
+            {
+                "Publication title": "Algebraic systems biology: a case study for the Wnt pathway",
+                "uuid": "i-CEgqaMa_rd"
+            },
+            {
+                "Publication title": "Mathematical and statistical techniques for systems medicine: the Wnt signaling pathway as a case study",
+                "uuid": "i-z6QYOL0wNn"
+            },
+            {
+                "Publication title": "Topological data analysis of contagion maps for examining spreading processes on networks",
+                "uuid": "i-Qvkgy34xHS"
+            },
+            {
+                "Publication title": "Phosphorelay of non-orthodox two component systems functions through a bi-molecular mechanism in vivo: the case of ArcB",
+                "uuid": "i-ZtP0eLJteP"
+            },
+            {
+                "Publication title": "Parameter-free methods distinguish Wnt pathway models and guide design of experiments",
+                "uuid": "i-pAoZyk43BB"
+            },
+            {
+                "Publication title": "Topological data analysis of contagion maps for examining spreading processes on networks",
+                "uuid": "i-eoRjFwVkPp"
+            },
+            {
+                "Publication title": "Epithelial-mesenchymal transition in metastatic cancer cell populations affects tumor dormancy in a simple mathematical model",
+                "uuid": "i-8BpCF8MkaY"
+            },
+            {
+                "Publication title": "Nuclear to cytoplasmic shuttling of ERK promotes differentiation of muscle stem/progenitor cells",
+                "uuid": "i-rzgfe9f6kY"
+            },
+            {
+                "Publication title": "Commentary: Teach network science to teenagers",
+                "uuid": "i-JpGoe-gukB"
+            },
+            {
+                "Publication title": "Cellular compartments cause multistability and allow cells to process more information",
+                "uuid": "i-TPqoSmBr5q"
+            },
+            {
+                "Publication title": "Clinical drug resistance linked to interconvertible phenotypic and functional states of tumor-propagating cells in multiple myeloma",
+                "uuid": "i-289Y_7Rv1G"
+            },
+            {
+                "Publication title": "Parameter-free model discrimination criterion based on steady-state coplanarity",
+                "uuid": "i-dglMx_h6D3"
+            },
+            {
+                "Publication title": "Mathematical modeling reveals the functional implications of the different nuclear shuttling rates of Erk1 and Erk2",
+                "uuid": "i-384xOQNjK6"
+            },
+            {
+                "Publication title": "Skin barrier homeostasis in atopic dermatitis: feedback regulation of kallikrein activity",
+                "uuid": "i-Pww5X_zQt7"
+            },
+            {
+                "Publication title": "Bistability in apoptosis by receptor clustering",
+                "uuid": "i-4-S-fvQoxZ"
+            },
+            {
+                "Publication title": "Coronary intraplaque hemorrhage evokes a novel atheroprotective macrophage phenotype",
+                "uuid": "i-AoXdynP4R1"
+            },
+            {
+                "Publication title": "Construction and analysis of a modular model of caspase activation in apoptosis",
+                "uuid": "i-zq1tRXLTEg"
+            },
+            {
+                "Publication title": "A hybrid model for tumor-induced angiogenesis in the cornea in the presence of inhibitors",
+                "uuid": "i-QMb_Dznck-"
+            },
+            {
+                "Publication title": "The geometry of sloppiness",
+                "uuid": "i-6gySnbZonv"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "Prof. Dr.",
+        "uuid": "i-dsCt4S6lGo"
+    },
+    "i-g0slIejKR6": {
+        "bio_short": "Leon is a PhD student working on multiparameter persistent homology, chromatic persistence, and persistent cycle representatives. His interests span both the mathematical theory and computational implementation of topological methods for analysing biological datasets and images.",
+        "dates_active": "2024-",
+        "email": "renkin@mpi-cbg.de",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Topological Data Analysis",
+            "Software & Computational Mathematics"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "https://scholar.google.com/citations?user=d1cf7xsAAAAJ&hl=de",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0003-3343-7869",
+        "link_website": "",
+        "name_first": "Leon",
+        "name_full": "Leon Renkin",
+        "name_last": "Renkin",
+        "photo": {
+            "have_consent": true,
+            "filename": "Renkin_Leon.jpg",
+            "date_consented": "2025-11-10"
+        },
+        "publications": [
+            {
+                "Publication title": "Persistent Cycle Representatives and Generalized Landscapes for Codimension 1 Persistent Homology",
+                "uuid": "i-XC6rxqwpxU"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-g0slIejKR6"
+    },
+    "i-hq4BP9994J": {
+        "bio_short": "",
+        "dates_active": "2021-2026",
+        "email": "piotr.sliwa@bnc.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://www.maths.ox.ac.uk/people/piotr.sliwa",
+        "name_first": "Piotr",
+        "name_full": "Piotr Sliwa",
+        "name_last": "Sliwa",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "",
+        "uuid": "i-hq4BP9994J"
+    },
+    "i-ht3S8GDCut": {
+        "bio_short": "",
+        "dates_active": "2024-2025",
+        "email": "jcoons@wpi.edu",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Jane",
+        "name_full": "Jane Coons",
+        "name_last": "Coons",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [
+            {
+                "Publication title": "Identifiability in Graphical Discrete Lyapunov Models",
+                "uuid": "i-_xJCBblbuk"
+            },
+            {
+                "Publication title": "Combinatorial geometry of rational quasi-independence models as toric fiber products",
+                "uuid": "i-n8W65ony0b"
+            }
+        ],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-ht3S8GDCut"
+    },
+    "i-iJVJHewIbN": {
+        "bio_short": "Silviana works on problems in applied numerical algebraic geometry and scientific computation.  She most enjoys finding the x, such that f(x)=0.  Her favorite fields are of characteristic 0.  Her favorite programming languages are C++ and Python, though she always enjoys learning new ones.  Before joining Algebraic Systems Biology in Dresden, she was Associate Professor of Mathematics at UWEC in Wisconsin.",
+        "dates_active": "2024-",
+        "email": "amethyst@mpi-cbg.de",
+        "internal_roles": [
+            "Staff Scientist"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Applied Algebraic Geometry & Tensors",
+            "Software & Computational Mathematics",
+            "Dynamical Systems & Mathematical Modeling",
+            "Topological Data Analysis",
+            "Other Applications"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/ofloveandhate/",
+        "link_google_scholar": "https://scholar.google.com/citations?user=prI5HIwAAAAJ&hl=en",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/my-orcid?orcid=0000-0001-7535-4602",
+        "link_website": "silviana.org",
+        "name_first": "Silviana",
+        "name_full": "Silviana Amethyst",
+        "name_last": "Amethyst",
+        "photo": {
+            "have_consent": true,
+            "filename": "Amethyst_Silviana.jpg",
+            "date_consented": "2025-11-06"
+        },
+        "publications": [
+            {
+                "Publication title": "Nondimensionalization is more science than art",
+                "uuid": "i-EVwVb_8tE9"
+            },
+            {
+                "Publication title": "Numerical Algebraic Geometry",
+                "uuid": "i-0CF2iF2fK9"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-iJVJHewIbN"
+    },
+    "i-jVvpxIpQmM": {
+        "bio_short": "",
+        "dates_active": "2022-2023",
+        "email": "irishryoon@gmail.com",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Iris",
+        "name_full": "Iris Yoon",
+        "name_last": "Yoon",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Prof. Dr.",
+        "uuid": "i-jVvpxIpQmM"
+    },
+    "i-kaSU8maAeX": {
+        "bio_short": "",
+        "dates_active": "2025-",
+        "email": "jli@mpi-cbg.de",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Identifiability, Statistics, & AI",
+            "Applied Algebraic Geometry & Tensors"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/jl2ml",
+        "link_google_scholar": "https://scholar.google.com/citations?user=ZD9YWtIAAAAJ&hl=en",
+        "link_linkedin": "",
+        "link_orcid": "https://orcid.org/0000-0001-5132-7896",
+        "link_website": "https://jl2ml.github.io/",
+        "name_first": "Jiayi",
+        "name_full": "Jiayi Li",
+        "name_last": "Li",
+        "photo": {
+            "have_consent": true,
+            "filename": "Jiayi-profile.jpg",
+            "date_consented": "2025-11-12"
+        },
+        "publications": [
+            {
+                "Publication title": "Identifiability in Graphical Discrete Lyapunov Models",
+                "uuid": "i-_xJCBblbuk"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-kaSU8maAeX"
+    },
+    "i-kcvDgwxwgx": {
+        "bio_short": "",
+        "dates_active": "2014",
+        "email": "macleana@usc.edu",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://macleanlab.usc.edu/people/adam-maclean/",
+        "name_first": "Adam",
+        "name_full": "Adam MacLean",
+        "name_last": "MacLean",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Prof. Dr.",
+        "uuid": "i-kcvDgwxwgx"
+    },
+    "i-lBbAGOg7jM": {
+        "bio_short": "An ELBE postdoc under the supervision of Heather Harrington and Sandra Scharaw. ",
+        "dates_active": "2025-",
+        "email": "koyama@mpi-cbg.de",
+        "internal_roles": [
+            "Research Fellow"
+        ],
+        "joint_supervision_information": "Heather Harrington, Sandra Scharaw",
+        "keywords": [
+            "Topological Data Analysis"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Musashi",
+        "name_full": "Musashi Koyama",
+        "name_last": "Koyama",
+        "photo": {
+            "have_consent": true,
+            "filename": "IMG_20251204_094657_PORTRAIT.jpg",
+            "date_consented": "2026-02-24"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-lBbAGOg7jM"
+    },
+    "i-lw2K9ChPho": {
+        "bio_short": "",
+        "dates_active": "2025-",
+        "email": "mastepha@mpi-cbg.de",
+        "internal_roles": [
+            "Staff Scientist"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Marc",
+        "name_full": "Marc Stephan",
+        "name_last": "Stephan",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-lw2K9ChPho"
+    },
+    "i-oL2k5Ov2fY": {
+        "bio_short": "Juan works in algebraic topology and homotopy theory, with a current focus on configuration spaces and their homotopy type — a line of enquiry directly motivated by molecular biology. His goal is to extend classical results from configuration space theory into a form that can be applied to biological systems.",
+        "dates_active": "2025-",
+        "email": "juan.celisrojas@mansfield.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "Co-supervised by Prof. Ulrike Tillmann",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://juanfelipecelisr.github.io",
+        "name_first": "Juan Felipe",
+        "name_full": "Juan Felipe Celis Rojas",
+        "name_last": "Celis Rojas",
+        "photo": {
+            "have_consent": true,
+            "filename": "IMG_3695.jpeg",
+            "date_consented": "2025-11-10"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-oL2k5Ov2fY"
+    },
+    "i-o_D5od6p6o": {
+        "bio_short": "Lukas' research interests sits within the triangle of homotopy theory, stratified spaces, and topological data analysis — and anything that happens in the spaces between them.",
+        "dates_active": "2025-",
+        "email": "lukas.waas@maths.ox.ac.uk",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Topological Data Analysis"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "https://scholar.google.com/citations?hl=en&user=1KMd54cAAAAJ",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://people.maths.ox.ac.uk/waas",
+        "name_first": "Lukas",
+        "name_full": "Lukas Waas",
+        "name_last": "Waas",
+        "photo": {
+            "have_consent": true,
+            "filename": "frontme.JPEG",
+            "date_consented": "2025-11-13"
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-o_D5od6p6o"
+    },
+    "i-obQe8XN9Xp": {
+        "bio_short": "",
+        "dates_active": "2022-2023",
+        "email": "pedrosoto@vt.edu",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Pedro Juan",
+        "name_full": "Pedro Juan Soto",
+        "name_last": "Soto",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-obQe8XN9Xp"
+    },
+    "i-ounbHj5BMw": {
+        "bio_short": "",
+        "dates_active": "2025-",
+        "email": "alipour@mpi-cbg.de",
+        "internal_roles": [
+            "Research Manager"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Maryam",
+        "name_full": "Maryam Alipour",
+        "name_last": "Alipour",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-ounbHj5BMw"
+    },
+    "i-pm_jpVzopL": {
+        "bio_short": "Rob studies the topology of mathematical models which describe complex processes in the life sciences. Working with simulated and experimental data, Rob compares different modelling approaches in terms of their spatial and temporal properties. Co-supervised with Professor Helen Byrne.",
+        "dates_active": "2021-",
+        "email": "Robert.McDonald@maths.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Topological Data Analysis",
+            "Morphology & Spatial Biology",
+            "Software & Computational Mathematics"
+        ],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "https://scholar.google.com/citations?user=vWoizM4AAAAJ&hl=en&oi=sra",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://rmcdomaths.github.io/",
+        "name_first": "Robert",
+        "name_full": "Robert McDonald",
+        "name_last": "McDonald",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "",
+        "uuid": "i-pm_jpVzopL"
+    },
+    "i-sR0JWE3JO7": {
+        "bio_short": "",
+        "dates_active": "2023-2024",
+        "email": "ximena.fernandez@city.ac.uk",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://ximenafernandez.github.io/",
+        "name_first": "Ximena",
+        "name_full": "Ximena Fernandez",
+        "name_last": "Fernandez",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-sR0JWE3JO7"
+    },
+    "i-wYnOxJRUGK": {
+        "bio_short": "",
+        "dates_active": "2015-2016",
+        "email": "emilie.dufresne@york.ac.uk",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Emilie",
+        "name_full": "Emilie Dufresne",
+        "name_last": "Dufresne",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Prof. Dr.",
+        "uuid": "i-wYnOxJRUGK"
+    },
+    "i-xXYF8nCXT9": {
+        "bio_short": "",
+        "dates_active": "2018-2022",
+        "email": "jacob.leygonie@gmail.com",
+        "internal_roles": [
+            "PhD Student",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://www.jacobleygonie.com/",
+        "name_first": "Jacob",
+        "name_full": "Jacob Leygonie",
+        "name_last": "Leygonie",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-xXYF8nCXT9"
+    },
+    "i-yDgObOpSCJ": {
+        "bio_short": "Kelly's mathematical interests run from the abstract to the urgently applied: rational homotopy theory and model categories at the pure end; persistence and topological data analysis in the middle; geometric deep learning — a field Kelly approaches with the conviction that message-passing architectures should be replaced entirely by neural k-forms; and single cell RNA sequencing at the applied end. Current projects span all of it.",
+        "dates_active": "2024-",
+        "email": "maggs@mpi-cbg.de",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [
+            "Topological Data Analysis",
+            "Omics"
+        ],
+        "link_bluesky": "",
+        "link_github": "https://github.com/kmaggs",
+        "link_google_scholar": "https://scholar.google.com/citations?user=wU3rRfMAAAAJ&hl=en",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://sites.google.com/view/kelly-maggs",
+        "name_first": "Kelly",
+        "name_full": "Kelly Maggs",
+        "name_last": "Maggs",
+        "photo": {
+            "have_consent": true,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [
+            {
+                "Publication title": "Topology identifies concurrent cyclic processes in single-cell transcriptomics and androgen receptor function",
+                "uuid": "i-dOgrCLbDdZ"
+            },
+            {
+                "Publication title": "Cell decompositions of persistent minimal models",
+                "uuid": "i-tUlctwEHqF"
+            },
+            {
+                "Publication title": "Interval-sphere model structures",
+                "uuid": "i-gMRxeNeNH9"
+            }
+        ],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-yDgObOpSCJ"
+    },
+    "i-yPPhHEKjsE": {
+        "bio_short": "Florian works on the mathematics of shape and structure in data. His tools come from topology and sheaf theory, pushed into the new territory of multiparameter persistence.",
+        "dates_active": "2026-",
+        "email": "russold@mpi-cbg.de",
+        "internal_roles": [
+            "Postdoc"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "",
+        "name_first": "Florian",
+        "name_full": "Florian Russold",
+        "name_last": "Russold",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Current",
+        "title": "Dr.",
+        "uuid": "i-yPPhHEKjsE"
+    },
+    "i-y_6sD7mFAx": {
+        "bio_short": "",
+        "dates_active": "2023-2024",
+        "email": "rakhooy@mpi-cbg.de",
+        "internal_roles": [
+            "Postdoc",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://people.maths.ox.ac.uk/rahkooy/",
+        "name_first": "Hamid",
+        "name_full": "Hamid Rakhooy",
+        "name_last": "Rakhooy",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "Dr.",
+        "uuid": "i-y_6sD7mFAx"
+    },
+    "i-zjt19jxmAV": {
+        "bio_short": "",
+        "dates_active": "2020-2025",
+        "email": "thomas.chaplin@new.ox.ac.uk",
+        "internal_roles": [
+            "PhD Student",
+            "Alumnus"
+        ],
+        "joint_supervision_information": "",
+        "keywords": [],
+        "link_bluesky": "",
+        "link_github": "",
+        "link_google_scholar": "",
+        "link_linkedin": "",
+        "link_orcid": "",
+        "link_website": "https://www.tomchaplin.xyz",
+        "name_first": "Tom",
+        "name_full": "Tom Chaplin",
+        "name_last": "Chaplin",
+        "photo": {
+            "have_consent": false,
+            "filename": "",
+            "date_consented": ""
+        },
+        "publications": [],
+        "temporal_tag": "Past",
+        "title": "",
+        "uuid": "i-zjt19jxmAV"
+    }
+}
